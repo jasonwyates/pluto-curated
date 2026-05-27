@@ -1,0 +1,30 @@
+# Copy this to .github/workflows/pluto.yml in your hosting repo.
+# Regenerates playlist.m3u + epg.xml from Pluto's live API on a schedule and
+# commits them, so the raw URLs stay current.
+name: Update Pluto curated
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"     # every 4 hours (UTC)
+  workflow_dispatch:           # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate playlist + EPG
+        run: python generate.py
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u epg.xml
+          git commit -m "Update Pluto curated $(date -u +%FT%TZ)" || echo "no changes"
+          git push
