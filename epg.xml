@@ -290,34 +290,6 @@
     <display-name>58</display-name>
     <icon src="http://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" />
   </channel>
-  <programme start="20260722094400 +0000" stop="20260722100900 +0000" channel="649ddbfb6f29ec000874ca9e">
-    <title lang="en">Supermarket Sweep</title>
-    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
-  </programme>
-  <programme start="20260722100900 +0000" stop="20260722103500 +0000" channel="649ddbfb6f29ec000874ca9e">
-    <title lang="en">Supermarket Sweep</title>
-    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
-  </programme>
-  <programme start="20260722103500 +0000" stop="20260722110100 +0000" channel="649ddbfb6f29ec000874ca9e">
-    <title lang="en">Supermarket Sweep</title>
-    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
-  </programme>
-  <programme start="20260722110100 +0000" stop="20260722112600 +0000" channel="649ddbfb6f29ec000874ca9e">
-    <title lang="en">Supermarket Sweep</title>
-    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
-  </programme>
-  <programme start="20260722112600 +0000" stop="20260722115200 +0000" channel="649ddbfb6f29ec000874ca9e">
-    <title lang="en">Supermarket Sweep</title>
-    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
-  </programme>
-  <programme start="20260722115200 +0000" stop="20260722121800 +0000" channel="649ddbfb6f29ec000874ca9e">
-    <title lang="en">Supermarket Sweep</title>
-    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
-  </programme>
-  <programme start="20260722121800 +0000" stop="20260722124300 +0000" channel="649ddbfb6f29ec000874ca9e">
-    <title lang="en">Supermarket Sweep</title>
-    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
-  </programme>
   <programme start="20260722124300 +0000" stop="20260722130900 +0000" channel="649ddbfb6f29ec000874ca9e">
     <title lang="en">Supermarket Sweep</title>
     <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
@@ -414,13 +386,33 @@
     <title lang="en">Supermarket Sweep</title>
     <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="5f32f26bcd8aea00071240e5">
-    <title lang="en">Pop Stars</title>
-    <desc lang="en">The decade&#x27;s most popular names and faces!</desc>
+  <programme start="20260722231200 +0000" stop="20260722233800 +0000" channel="649ddbfb6f29ec000874ca9e">
+    <title lang="en">Supermarket Sweep</title>
+    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="5f32f26bcd8aea00071240e5">
-    <title lang="en">Mellow and Melodic</title>
-    <desc lang="en">Kick back and take it easy with these lite hits.</desc>
+  <programme start="20260722233800 +0000" stop="20260723000400 +0000" channel="649ddbfb6f29ec000874ca9e">
+    <title lang="en">Supermarket Sweep</title>
+    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
+  </programme>
+  <programme start="20260723000400 +0000" stop="20260723003100 +0000" channel="649ddbfb6f29ec000874ca9e">
+    <title lang="en">Supermarket Sweep</title>
+    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
+  </programme>
+  <programme start="20260723003100 +0000" stop="20260723005700 +0000" channel="649ddbfb6f29ec000874ca9e">
+    <title lang="en">Supermarket Sweep</title>
+    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
+  </programme>
+  <programme start="20260723005700 +0000" stop="20260723012400 +0000" channel="649ddbfb6f29ec000874ca9e">
+    <title lang="en">Supermarket Sweep</title>
+    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
+  </programme>
+  <programme start="20260723012400 +0000" stop="20260723015000 +0000" channel="649ddbfb6f29ec000874ca9e">
+    <title lang="en">Supermarket Sweep</title>
+    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
+  </programme>
+  <programme start="20260723015000 +0000" stop="20260723021700 +0000" channel="649ddbfb6f29ec000874ca9e">
+    <title lang="en">Supermarket Sweep</title>
+    <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
   </programme>
   <programme start="20260722120000 +0000" stop="20260722140000 +0000" channel="5f32f26bcd8aea00071240e5">
     <title lang="en">Chartbusters!</title>
@@ -450,13 +442,17 @@
     <title lang="en">Sounds of the Seventies</title>
     <desc lang="en">From funk to punk, the Me Decade had a song for everyone.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="5fd7b8bf927e090007685853">
-    <title lang="en">Awesome Pop</title>
-    <desc lang="en">Videos that made the &#x27;80s unforgettable.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="5f32f26bcd8aea00071240e5">
+    <title lang="en">Rock Gods</title>
+    <desc lang="en">Punk, Power Pop, Prog and everything in between.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="5fd7b8bf927e090007685853">
-    <title lang="en">Relax and Rewind</title>
-    <desc lang="en">Chill out with your favorite videos of the decade.</desc>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="5f32f26bcd8aea00071240e5">
+    <title lang="en">Soul City</title>
+    <desc lang="en">Artists that had everyone movin&#x27; and groovin&#x27; throughout the entire decade.</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="5f32f26bcd8aea00071240e5">
+    <title lang="en">Mellow and Melodic</title>
+    <desc lang="en">Kick back and take it easy with these lite hits.</desc>
   </programme>
   <programme start="20260722120000 +0000" stop="20260722140000 +0000" channel="5fd7b8bf927e090007685853">
     <title lang="en">Totally Hits</title>
@@ -494,13 +490,17 @@
     <title lang="en">The Year In Music: 1985</title>
     <desc lang="en">Videos and performances from the sixth year of the decade.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722120000 +0000" channel="5fd7bb1f86d94a000796e2c2">
-    <title lang="en">90s Chill Morning</title>
-    <desc lang="en">Slowly starting your morning with these videos.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="5fd7b8bf927e090007685853">
+    <title lang="en">Live From The &#x27;80s</title>
+    <desc lang="en">Performances from one-hit wonders to the biggest superstars of the decade.</desc>
   </programme>
-  <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="5fd7bb1f86d94a000796e2c2">
-    <title lang="en">90s Country Classics</title>
-    <desc lang="en">Relive the hits from country&#x27;s top artists of the 90s.</desc>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="5fd7b8bf927e090007685853">
+    <title lang="en">Relax and Rewind</title>
+    <desc lang="en">Chill out with your favorite videos of the decade.</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="5fd7b8bf927e090007685853">
+    <title lang="en">Totally Hits</title>
+    <desc lang="en">Like, nothing but the videos that everyone knows!</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722150000 +0000" channel="5fd7bb1f86d94a000796e2c2">
     <title lang="en">All-Out &#x27;90s</title>
@@ -542,13 +542,17 @@
     <title lang="en">The Year In Music: 1997</title>
     <desc lang="en">Re-live 1997 with the year&#x27;s popular videos!</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722120000 +0000" channel="5fd7bca3e0a4ee0007a38e8c">
-    <title lang="en">Morning Coffee</title>
-    <desc lang="en">Chill videos to start your day with.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="5fd7bb1f86d94a000796e2c2">
+    <title lang="en">Alt &amp; Rock Anthems</title>
+    <desc lang="en">Guitar-driven classics.</desc>
   </programme>
-  <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="5fd7bca3e0a4ee0007a38e8c">
-    <title lang="en">R&amp;B Jams</title>
-    <desc lang="en">Classic, down to earth jams from the 2000s.</desc>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="5fd7bb1f86d94a000796e2c2">
+    <title lang="en">&#x27;90s Pop Party</title>
+    <desc lang="en">The decade&#x27;s biggest videos.</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="5fd7bb1f86d94a000796e2c2">
+    <title lang="en">Hip-Hop Flava</title>
+    <desc lang="en">Vids from the decade&#x27;s top rhymers.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="5fd7bca3e0a4ee0007a38e8c">
     <title lang="en">2K Country</title>
@@ -590,21 +594,17 @@
     <title lang="en">Summer Jams</title>
     <desc lang="en">Grab your flip phone and dial into the biggest 2000s music videos for pure summer nostalgia.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722103000 +0000" channel="61d4b38226b8a50007fe03a6">
-    <title lang="en">Vevo DSCVR Alternative</title>
-    <desc lang="en">Up-and-coming alt rock bands to keep an eye on.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="5fd7bca3e0a4ee0007a38e8c">
+    <title lang="en">Top Hits</title>
+    <desc lang="en">The decade&#x27;s biggest videos.</desc>
   </programme>
-  <programme start="20260722103000 +0000" stop="20260722110000 +0000" channel="61d4b38226b8a50007fe03a6">
-    <title lang="en">Vevo DSCVR Rock</title>
-    <desc lang="en">Emerging acts that are carrying the torch for guitar-driven music.</desc>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="5fd7bca3e0a4ee0007a38e8c">
+    <title lang="en">Hip Hop Heavy</title>
+    <desc lang="en">Dive back into the crunk years with the decade&#x27;s hottest videos!</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="61d4b38226b8a50007fe03a6">
-    <title lang="en">Pop Punk &amp; Emo Rock!</title>
-    <desc lang="en">Videos that embrace rock&#x27;s more fun, but sensitive, side.</desc>
-  </programme>
-  <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="61d4b38226b8a50007fe03a6">
-    <title lang="en">Acoustic Rock</title>
-    <desc lang="en">Videos and performances from artists and bands that are usually a lot more louder.</desc>
+  <programme start="20260723020000 +0000" stop="20260723040000 +0000" channel="5fd7bca3e0a4ee0007a38e8c">
+    <title lang="en">Y2K Dance Party</title>
+    <desc lang="en">The hottest party hits from the new millennium.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="61d4b38226b8a50007fe03a6">
     <title lang="en">Hard Rock Heroes</title>
@@ -650,9 +650,17 @@
     <title lang="en">Rock and Roll All Nite</title>
     <desc lang="en">Rock, Hard Rock, Metal and beyond.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722120000 +0000" channel="623a1b5188ecdc0007c9ef5a">
-    <title lang="en">Rise &amp; Rock</title>
-    <desc lang="en">Rock and Metal music videos from the iconic classics to today&#x27;s future legends.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="61d4b38226b8a50007fe03a6">
+    <title lang="en">All New Alt</title>
+    <desc lang="en">The latest and greatest in alternative rock.</desc>
+  </programme>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="61d4b38226b8a50007fe03a6">
+    <title lang="en">Pop Punk &amp; Emo Rock!</title>
+    <desc lang="en">Videos that embrace rock&#x27;s more fun, but sensitive, side.</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="61d4b38226b8a50007fe03a6">
+    <title lang="en">Rock &amp; Alt Of The &#x27;80s</title>
+    <desc lang="en">From Hair Metal to Hard Rock and New Wave, the decade of decadence proved to be the genre&#x27;s most diverse period.</desc>
   </programme>
   <programme start="20260722120000 +0000" stop="20260722160000 +0000" channel="623a1b5188ecdc0007c9ef5a">
     <title lang="en">Full Throttle Rock</title>
@@ -670,17 +678,17 @@
     <title lang="en">Amplified Anthems</title>
     <desc lang="en">Cranking up the volume on the Rock and Metal hits.</desc>
   </programme>
-  <programme start="20260722085400 +0000" stop="20260722103000 +0000" channel="696998915a0ae9e1b563f0c6">
-    <title lang="en">Paul Rodgers - Free Spirit</title>
-    <desc lang="en">The 16-song collection, &#x27;Free Spirit&#x27;, filmed in London, England returned Paul Rodgers to his roots, bringing fans an extraordinary evening celebrating the music of Free.</desc>
+  <programme start="20260723000000 +0000" stop="20260723020000 +0000" channel="623a1b5188ecdc0007c9ef5a">
+    <title lang="en">Rockin&#x27; Into the Night</title>
+    <desc lang="en">Kick off the night with the rock hits from past and present.</desc>
   </programme>
-  <programme start="20260722103000 +0000" stop="20260722120700 +0000" channel="696998915a0ae9e1b563f0c6">
-    <title lang="en">Tony Bennett - Duets II: The Great Performances</title>
-    <desc lang="en">The hits from Duets II are beautifully recorded on the videos of studio recordings, Duets II - The Great Performances. Starring Andrea Bocelli, Michael Bublé, Natalie Cole, Sheryl Crow, Aretha Franklin, Josh Groban, Faith Hill, Norah Jones, and more.</desc>
+  <programme start="20260723020000 +0000" stop="20260723040000 +0000" channel="623a1b5188ecdc0007c9ef5a">
+    <title lang="en">Howlin&#x27; At The Moon</title>
+    <desc lang="en">An eruption of Rock and Metal videos for an electrifying night.</desc>
   </programme>
-  <programme start="20260722120700 +0000" stop="20260722133400 +0000" channel="696998915a0ae9e1b563f0c6">
-    <title lang="en">Rod Stewart - Live at Hyde Park</title>
-    <desc lang="en">Experience the legendary Rod Stewart as he closes Radio 2&#x27;s Annual Festival In A Day with a memorable performance in September 2015 at London&#x27;s Hyde Park.</desc>
+  <programme start="20260722130000 +0000" stop="20260722133400 +0000" channel="696998915a0ae9e1b563f0c6">
+    <title lang="en">Qello Concerts</title>
+    <desc lang="en">no info available</desc>
   </programme>
   <programme start="20260722133400 +0000" stop="20260722155000 +0000" channel="696998915a0ae9e1b563f0c6">
     <title lang="en">Paul McCartney - The Space Within US</title>
@@ -706,69 +714,13 @@
     <title lang="en">John Denver - Rocky Mountain High: Live In Japan</title>
     <desc lang="en">Rocky Mountain High: Live In Japan is a 1981 concert from John Denver&#x27;s 7-show tour of Japan and features a wonderful selection of hits from his career, including: Annie&#x27;s Song, Calypso, Sunshine On My Shoulders &amp; Thank God I&#x27;m A Country Boy.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
+  <programme start="20260722233100 +0000" stop="20260723020600 +0000" channel="696998915a0ae9e1b563f0c6">
+    <title lang="en">Duane Allman - Song of the South</title>
+    <desc lang="en">Duane Allman, the lead guitarist and driving force behind Southern Rock pioneers The Allman Brothers Band, lived a tragically short life, but during his brief career he changed music forever.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722170000 +0000" stop="20260722180000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722230000 +0000" stop="20260723000000 +0000" channel="696689d13b9ce349c9be3a18">
-    <title lang="en">Stingray Djazz</title>
-    <desc lang="en">Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
-  </programme>
-  <programme start="20260722083057 +0000" stop="20260722100057 +0000" channel="5873fc21cad696fb37aa9054">
-    <title lang="en">Madonna: Goddess of Pop</title>
-    <desc lang="en">Madonna is a global mega star and one of the most recognizable music icons in history. Her phenomenal career has spanned four decades, selling more than three hundred million records worldwide.</desc>
-  </programme>
-  <programme start="20260722100057 +0000" stop="20260722113057 +0000" channel="5873fc21cad696fb37aa9054">
-    <title lang="en">Metallica: Masters of Metal</title>
-    <desc lang="en">They are one of the most influential heavy metal bands of all time. Alongside Slayer, Anthrax, and Megadeth, the Masters of Metal are an important part of the &quot;big four&quot;.</desc>
+  <programme start="20260722130000 +0000" stop="20260723020000 +0000" channel="696689d13b9ce349c9be3a18">
+    <title lang="en">Stingray DJAZZ</title>
+    <desc lang="en">no info available</desc>
   </programme>
   <programme start="20260722113057 +0000" stop="20260722130057 +0000" channel="5873fc21cad696fb37aa9054">
     <title lang="en">Michael Jackson: Life, Death, and Legacy</title>
@@ -802,29 +754,13 @@
     <title lang="en">The Music of Duke Ellington and Lionel Hampton</title>
     <desc lang="en">This program features rare footage of the two jazz greats that captures not only the glory of their music, but also the enthusiasm and charisma that have made these two musicians into legends.</desc>
   </programme>
-  <programme start="20260722094500 +0000" stop="20260722101500 +0000" channel="5f36d726234ce10007784f2a">
-    <title lang="en">The Joy of Painting with Bob Ross</title>
-    <desc lang="en">Bob Ross creates a beautiful golden warm waterfall scene, employing a lovely almost watercolor-looking effect. Come join in the fun!</desc>
+  <programme start="20260722233057 +0000" stop="20260723010057 +0000" channel="5873fc21cad696fb37aa9054">
+    <title lang="en">The Strange Case of Alice Cooper: Live 1979</title>
+    <desc lang="en">The Strange Case Of Alice Cooper is the warped tale of one man&#x27;s descent into madness, a theatrical rock n&#x27; roll spectacle that could only emerge from the twisted imagination of Alice Cooper.</desc>
   </programme>
-  <programme start="20260722101500 +0000" stop="20260722104500 +0000" channel="5f36d726234ce10007784f2a">
-    <title lang="en">The Joy of Painting with Bob Ross</title>
-    <desc lang="en">Guest artist Steve Ross extends an invitation to join him on the banks of a crystal loch for a view of majestic mountain peaks.</desc>
-  </programme>
-  <programme start="20260722104500 +0000" stop="20260722111500 +0000" channel="5f36d726234ce10007784f2a">
-    <title lang="en">The Joy of Painting with Bob Ross</title>
-    <desc lang="en">Follow guest artist Annette Kowalski as she creates a beautiful hanging clay pot full of leaves and flowers using the Bob Ross painting method.</desc>
-  </programme>
-  <programme start="20260722111500 +0000" stop="20260722114500 +0000" channel="5f36d726234ce10007784f2a">
-    <title lang="en">The Joy of Painting with Bob Ross</title>
-    <desc lang="en">Rich, soft colors prove that fall has arrived! Join Bob Ross as he paints a quiet pond and surrounding foliage preparing themselves for a season of slumber.</desc>
-  </programme>
-  <programme start="20260722114500 +0000" stop="20260722121500 +0000" channel="5f36d726234ce10007784f2a">
-    <title lang="en">The Joy of Painting with Bob Ross</title>
-    <desc lang="en">Experience the serenity and silence of a fresh undisturbed snowfall with Bob Ross when he takes you to a lovely cabin deep in northern country.</desc>
-  </programme>
-  <programme start="20260722121500 +0000" stop="20260722124500 +0000" channel="5f36d726234ce10007784f2a">
-    <title lang="en">The Joy of Painting with Bob Ross</title>
-    <desc lang="en">Bob Ross invites you for a walk on the shore; soothing waves rolling in from the sea to the palm trees - all in a delightful seashell shape on the canvas.</desc>
+  <programme start="20260723010057 +0000" stop="20260723023057 +0000" channel="5873fc21cad696fb37aa9054">
+    <title lang="en">To Russia With Elton</title>
+    <desc lang="en">Footage of a concert given in Moscow, Russia, by rock singer Elton John.</desc>
   </programme>
   <programme start="20260722124500 +0000" stop="20260722131500 +0000" channel="5f36d726234ce10007784f2a">
     <title lang="en">The Joy of Painting with Bob Ross</title>
@@ -910,37 +846,33 @@
     <title lang="en">The Joy of Painting with Bob Ross</title>
     <desc lang="en">Walk along an old fence into the autumn country with Bob Ross and rest under the golden branches of a majestic shade tree.</desc>
   </programme>
-  <programme start="20260722093011 +0000" stop="20260722100055 +0000" channel="5e84f54a82f05300080e6746">
+  <programme start="20260722231500 +0000" stop="20260722234500 +0000" channel="5f36d726234ce10007784f2a">
+    <title lang="en">The Joy of Painting with Bob Ross</title>
+    <desc lang="en">Experience the wonder of a late summer&#x27;s day with Bob Ross where shades of lavender and golden, warm fall colors unite in an array of fabulous beauty.</desc>
+  </programme>
+  <programme start="20260722234500 +0000" stop="20260723001500 +0000" channel="5f36d726234ce10007784f2a">
+    <title lang="en">The Joy of Painting with Bob Ross</title>
+    <desc lang="en">Guest artist Dana Jester creates a Bob Ross-style mountain scene with dignified foothills and evergreens, and super vibrant bushes.</desc>
+  </programme>
+  <programme start="20260723001500 +0000" stop="20260723004500 +0000" channel="5f36d726234ce10007784f2a">
+    <title lang="en">The Joy of Painting with Bob Ross</title>
+    <desc lang="en">Take a walk with Bob Ross today, over a sweet old footbridge, across a little creek a&#x27;splashin&#x27; through the woodlands.</desc>
+  </programme>
+  <programme start="20260723004500 +0000" stop="20260723011500 +0000" channel="5f36d726234ce10007784f2a">
+    <title lang="en">The Joy of Painting with Bob Ross</title>
+    <desc lang="en">Travel with Bob Ross and enjoy a spectacular view -- this painting presents a fabulous lesson in creating rugged and rocky natural surfaces.</desc>
+  </programme>
+  <programme start="20260723011500 +0000" stop="20260723014500 +0000" channel="5f36d726234ce10007784f2a">
+    <title lang="en">The Joy of Painting with Bob Ross</title>
+    <desc lang="en">Join guest artist Steve Ross today -- experience the magnificence of splendid mountains and glassy lake embraced by leafy trees and bushes.</desc>
+  </programme>
+  <programme start="20260723014500 +0000" stop="20260723021500 +0000" channel="5f36d726234ce10007784f2a">
+    <title lang="en">The Joy of Painting with Bob Ross</title>
+    <desc lang="en">Bob Ross presents an intriguing painting with an outline of the &#x27;sunshine state&#x27;, and then creates a lovely beach setting within the borders.</desc>
+  </programme>
+  <programme start="20260722130000 +0000" stop="20260722133126 +0000" channel="5e84f54a82f05300080e6746">
     <title lang="en">America&#x27;s Test Kitchen</title>
-    <desc lang="en">We take a hard look at paella and see if we can pareit back to its humble origins.</desc>
-  </programme>
-  <programme start="20260722100055 +0000" stop="20260722103055 +0000" channel="5e84f54a82f05300080e6746">
-    <title lang="en">Cook&#x27;s Country</title>
-    <desc lang="en">Spice-Crusted Steaks, Grilled Bacon Burgers with Caramelized Onion; electric griddles; supermarket bacon</desc>
-  </programme>
-  <programme start="20260722103055 +0000" stop="20260722105921 +0000" channel="5e84f54a82f05300080e6746">
-    <title lang="en">America&#x27;s Test Kitchen</title>
-    <desc lang="en">Home-Corned Beef with Vegetables, Ultimate Snickerdoodles; tasting of sherry vinegar</desc>
-  </programme>
-  <programme start="20260722105921 +0000" stop="20260722112817 +0000" channel="5e84f54a82f05300080e6746">
-    <title lang="en">America&#x27;s Test Kitchen</title>
-    <desc lang="en">Boston Cream Pie, Chocolate Sheet Cake with Milk Chocolate Frosting; review of silicone spatulas</desc>
-  </programme>
-  <programme start="20260722112817 +0000" stop="20260722120040 +0000" channel="5e84f54a82f05300080e6746">
-    <title lang="en">America&#x27;s Test Kitchen: The Next Generation</title>
-    <desc lang="en">Easy weeknights: Quick French bread pizzas, one-pan roast chicken with veggies, and saving sheet pans</desc>
-  </programme>
-  <programme start="20260722120040 +0000" stop="20260722123248 +0000" channel="5e84f54a82f05300080e6746">
-    <title lang="en">Cook&#x27;s Country</title>
-    <desc lang="en">Tater Tot Hotdish, Wisconsin Butter Burgers; Buckeye Candies; review of corn strippers</desc>
-  </programme>
-  <programme start="20260722123248 +0000" stop="20260722130207 +0000" channel="5e84f54a82f05300080e6746">
-    <title lang="en">America&#x27;s Test Kitchen</title>
-    <desc lang="en">Pan-Seared Strip Steaks, Beet Salad with Spiced Yogurt and Watercress; nonstick-friendly tools</desc>
-  </programme>
-  <programme start="20260722130207 +0000" stop="20260722133126 +0000" channel="5e84f54a82f05300080e6746">
-    <title lang="en">America&#x27;s Test Kitchen</title>
-    <desc lang="en">Julia and Bridget make Beef Wellington; Jack talks all about domestic caviar</desc>
+    <desc lang="en">no info available</desc>
   </programme>
   <programme start="20260722133126 +0000" stop="20260722140114 +0000" channel="5e84f54a82f05300080e6746">
     <title lang="en">America&#x27;s Test Kitchen</title>
@@ -1022,29 +954,29 @@
     <title lang="en">America&#x27;s Test Kitchen</title>
     <desc lang="en">Chinese-Style Barbecued Pork, Mapo Tofu; review of wire racks and rimmed baking sheets</desc>
   </programme>
-  <programme start="20260722094100 +0000" stop="20260722100800 +0000" channel="64dab9df3d48f40008868091">
-    <title lang="en">Jamie&#x27;s Easy Meals for Every Day</title>
-    <desc lang="en">Jamie takes mushrooms to a whole new level with his deliciously cheesy baked mushroom soup, and gives a classic salad a tasty twist with his stunning cauliflower rémoulade.</desc>
+  <programme start="20260722232447 +0000" stop="20260722235355 +0000" channel="5e84f54a82f05300080e6746">
+    <title lang="en">America&#x27;s Test Kitchen</title>
+    <desc lang="en">Host Bridget Lancaster cooks a crispy Cast Iron Pan Pizza.</desc>
   </programme>
-  <programme start="20260722100800 +0000" stop="20260722103400 +0000" channel="64dab9df3d48f40008868091">
-    <title lang="en">Jamie&#x27;s Easy Meals for Every Day</title>
-    <desc lang="en">Jamie has some cracking family recipes to share; for a new take on using delicious sustainable white fish, Jamie rustles up gorgeous smoked haddock fish cakes, served with a beautifully creamy chive sauce that can&#x27;t fail to impress.</desc>
+  <programme start="20260722235355 +0000" stop="20260723002401 +0000" channel="5e84f54a82f05300080e6746">
+    <title lang="en">America&#x27;s Test Kitchen</title>
+    <desc lang="en">Grilled Chicken Breasts, Berry Granita; tasting of whole dill pickles; flatware sets</desc>
   </programme>
-  <programme start="20260722103400 +0000" stop="20260722110100 +0000" channel="64dab9df3d48f40008868091">
-    <title lang="en">Jamie&#x27;s Easy Meals for Every Day</title>
-    <desc lang="en">Going meat-free a couple of days a week has got the Oliver household trying new ways of using vegetables in the dishes everyone knows and loves, so Jamie has pulled out all the stops for his mushroom toad-in-the-hole.</desc>
+  <programme start="20260723002401 +0000" stop="20260723005321 +0000" channel="5e84f54a82f05300080e6746">
+    <title lang="en">Julia at Home</title>
+    <desc lang="en">Lan shows us that food sticking to the pan can give us more flavor. We also learn about pan sauces.</desc>
   </programme>
-  <programme start="20260722110100 +0000" stop="20260722115600 +0000" channel="64dab9df3d48f40008868091">
-    <title lang="en">Save With Jamie</title>
-    <desc lang="en">Jamie Oliver makes fish tikka curry, spicy cheese and beans and many more delicious dishes.</desc>
+  <programme start="20260723005321 +0000" stop="20260723012016 +0000" channel="5e84f54a82f05300080e6746">
+    <title lang="en">Cook&#x27;s Country</title>
+    <desc lang="en">Diner-Style Patty Melts, Ultimate Extra-Crunchy Onion Rings; review of coffee makers</desc>
   </programme>
-  <programme start="20260722115600 +0000" stop="20260722122300 +0000" channel="64dab9df3d48f40008868091">
-    <title lang="en">Jamie&#x27;s 15 Minute Meals</title>
-    <desc lang="en">Jamie cooks grilled tuna, &quot;kinda&quot; Niçoise salad, Thai chicken laksa, and mildly-spiced noodle squash broth.</desc>
+  <programme start="20260723012016 +0000" stop="20260723015004 +0000" channel="5e84f54a82f05300080e6746">
+    <title lang="en">America&#x27;s Test Kitchen</title>
+    <desc lang="en">Mustardy Apple Butter-Glazed Pork Chops, Browned Butter Blondies; white chocolate chips; grill spatulas</desc>
   </programme>
-  <programme start="20260722122300 +0000" stop="20260722125100 +0000" channel="64dab9df3d48f40008868091">
-    <title lang="en">Jamie&#x27;s 15 Minute Meals</title>
-    <desc lang="en">On the menu are quick lamb tagine, pan-fried eggplant and cumin crunch; crispy polenta chicken Caesar salad.</desc>
+  <programme start="20260723015004 +0000" stop="20260723022256 +0000" channel="5e84f54a82f05300080e6746">
+    <title lang="en">Julia at Home</title>
+    <desc lang="en">Julia shows us how to make lemony chicken, salmon rice bowls, Italian sausages, and lamb meatballs with orzo.</desc>
   </programme>
   <programme start="20260722125100 +0000" stop="20260722131900 +0000" channel="64dab9df3d48f40008868091">
     <title lang="en">Jamie&#x27;s 15 Minute Meals</title>
@@ -1122,21 +1054,21 @@
     <title lang="en">Jamie &amp; Jimmy&#x27;s Food Fight Club</title>
     <desc lang="en">Jamie and Jimmy return to their end-of-the-pier caff with blow-out feasts, D.I.Y. gastronomy, celeb friends at the hob and more trips on the road continuing their fight against food waste.</desc>
   </programme>
-  <programme start="20260722091603 +0000" stop="20260722100426 +0000" channel="66ff0cf663292d0008320cf8">
-    <title lang="en">Anthony Bourdain: No Reservations</title>
-    <desc lang="en">Tony travels to Cajun country and enjoys a mind-bending boucherie.</desc>
+  <programme start="20260722232800 +0000" stop="20260723002300 +0000" channel="64dab9df3d48f40008868091">
+    <title lang="en">Jamie &amp; Jimmy&#x27;s Food Fight Club</title>
+    <desc lang="en">Claudia Winkleman joins the boys to make a delicious butter chicken curry; Jamie makes a local paella and Jimmy knocks up some pork scratchings.</desc>
   </programme>
-  <programme start="20260722100426 +0000" stop="20260722105417 +0000" channel="66ff0cf663292d0008320cf8">
-    <title lang="en">Anthony Bourdain: No Reservations</title>
-    <desc lang="en">Tony takes an epic journey that ends with meat pies and gunshot wounds.</desc>
+  <programme start="20260723002300 +0000" stop="20260723011400 +0000" channel="64dab9df3d48f40008868091">
+    <title lang="en">Jamie &amp; Jimmy&#x27;s Food Fight Club</title>
+    <desc lang="en">Lycett dreams of having the culinary skills of an Italian nonna, so Jamie and Jimmy teach him to make traditional wild boar and pappardelle ragù.</desc>
   </programme>
-  <programme start="20260722105417 +0000" stop="20260722114241 +0000" channel="66ff0cf663292d0008320cf8">
-    <title lang="en">Anthony Bourdain: No Reservations</title>
-    <desc lang="en">Despite its sad history, Anthony finds Mozambique is full of optimism.</desc>
+  <programme start="20260723011400 +0000" stop="20260723014200 +0000" channel="64dab9df3d48f40008868091">
+    <title lang="en">Jamie&#x27;s 30 Minute Meals</title>
+    <desc lang="en">In less than half an hour Jamie Oliver makes summer veggie lasagne, Tuscan tomato salad, and quick mango frozen yogurt in baby cornets.</desc>
   </programme>
-  <programme start="20260722114241 +0000" stop="20260722123303 +0000" channel="66ff0cf663292d0008320cf8">
-    <title lang="en">Anthony Bourdain: No Reservations</title>
-    <desc lang="en">Tony joins the band The Black Keys for some serious BBQ in Kansas City.</desc>
+  <programme start="20260723014200 +0000" stop="20260723021000 +0000" channel="64dab9df3d48f40008868091">
+    <title lang="en">Jamie&#x27;s 30 Minute Meals</title>
+    <desc lang="en">Jamie Oliver prepares smoky haddock corn chowder, spiced tiger prawns, rainbow salad, and raspberry and elderflower slushie.</desc>
   </programme>
   <programme start="20260722123303 +0000" stop="20260722132135 +0000" channel="66ff0cf663292d0008320cf8">
     <title lang="en">Anthony Bourdain: No Reservations</title>
@@ -1190,21 +1122,21 @@
     <title lang="en">Anthony Bourdain: No Reservations</title>
     <desc lang="en">Tony travels through Brooklyn for the last episode of No Reservations.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722103000 +0000" channel="5812bfbe4ced4f7b601b12e6">
-    <title lang="en">Card Sharks</title>
-    <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
+  <programme start="20260722230439 +0000" stop="20260722235310 +0000" channel="66ff0cf663292d0008320cf8">
+    <title lang="en">The Layover with Anthony Bourdain</title>
+    <desc lang="en">In Singapore, Tony hangs with legendary KF Seetoh and soaks in a pool.</desc>
   </programme>
-  <programme start="20260722103000 +0000" stop="20260722110000 +0000" channel="5812bfbe4ced4f7b601b12e6">
-    <title lang="en">Card Sharks</title>
-    <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
+  <programme start="20260722235310 +0000" stop="20260723004142 +0000" channel="66ff0cf663292d0008320cf8">
+    <title lang="en">The Layover with Anthony Bourdain</title>
+    <desc lang="en">Tony takes on his hometown of New York City.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722113000 +0000" channel="5812bfbe4ced4f7b601b12e6">
-    <title lang="en">Password Plus</title>
-    <desc lang="en">Two teams consisting of a celebrity guest and a contestant guess words from clues.</desc>
+  <programme start="20260723004142 +0000" stop="20260723013013 +0000" channel="66ff0cf663292d0008320cf8">
+    <title lang="en">The Layover with Anthony Bourdain</title>
+    <desc lang="en">Via Vespa, trolley tracks and by foot, Tony dives into Roman culture.</desc>
   </programme>
-  <programme start="20260722113000 +0000" stop="20260722123000 +0000" channel="5812bfbe4ced4f7b601b12e6">
-    <title lang="en">Password Plus</title>
-    <desc lang="en">Two teams consisting of a celebrity guest and a contestant guess words from clues.</desc>
+  <programme start="20260723013013 +0000" stop="20260723021844 +0000" channel="66ff0cf663292d0008320cf8">
+    <title lang="en">The Layover with Anthony Bourdain</title>
+    <desc lang="en">Behind the wheel of his corvette Tony sees the best and seediest of Miami.</desc>
   </programme>
   <programme start="20260722123000 +0000" stop="20260722131000 +0000" channel="5812bfbe4ced4f7b601b12e6">
     <title lang="en">I&#x27;ve Got a Secret</title>
@@ -1270,33 +1202,33 @@
     <title lang="en">Match Game</title>
     <desc lang="en">Four contestants try to match answers given by six celebrities to humorous and often risqué fill-in-the-blank questions.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722102500 +0000" channel="5e54187aae660e00093561d6">
-    <title lang="en">25 Words or Less</title>
-    <desc lang="en">Matt Iseman can whip out some death-defying clues when he needs to.</desc>
+  <programme start="20260722233000 +0000" stop="20260723000000 +0000" channel="5812bfbe4ced4f7b601b12e6">
+    <title lang="en">Match Game</title>
+    <desc lang="en">Four contestants try to match answers given by six celebrities to humorous and often risqué fill-in-the-blank questions.</desc>
   </programme>
-  <programme start="20260722102500 +0000" stop="20260722105000 +0000" channel="5e54187aae660e00093561d6">
-    <title lang="en">25 Words or Less</title>
-    <desc lang="en">Amber&#x27;s team tries to assemble the right answers to furnish a big win against Matt Iseman.</desc>
+  <programme start="20260723000000 +0000" stop="20260723003000 +0000" channel="5812bfbe4ced4f7b601b12e6">
+    <title lang="en">Card Sharks</title>
+    <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
   </programme>
-  <programme start="20260722105000 +0000" stop="20260722111600 +0000" channel="5e54187aae660e00093561d6">
-    <title lang="en">Family Feud Favorites</title>
-    <desc lang="en">&quot;Family Feud&quot; has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
+  <programme start="20260723003000 +0000" stop="20260723010000 +0000" channel="5812bfbe4ced4f7b601b12e6">
+    <title lang="en">Card Sharks</title>
+    <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
   </programme>
-  <programme start="20260722111600 +0000" stop="20260722120800 +0000" channel="5e54187aae660e00093561d6">
-    <title lang="en">Minute to Win It</title>
-    <desc lang="en">Team Buckets faces obstacles.</desc>
+  <programme start="20260723010000 +0000" stop="20260723013000 +0000" channel="5812bfbe4ced4f7b601b12e6">
+    <title lang="en">Password Plus</title>
+    <desc lang="en">Two teams consisting of a celebrity guest and a contestant guess words from clues.</desc>
   </programme>
-  <programme start="20260722120800 +0000" stop="20260722123400 +0000" channel="5e54187aae660e00093561d6">
-    <title lang="en">Person, Place or Thing</title>
-    <desc lang="en">Colette, Julia and J.P. compete to win the game.</desc>
+  <programme start="20260723013000 +0000" stop="20260723020000 +0000" channel="5812bfbe4ced4f7b601b12e6">
+    <title lang="en">Password Plus</title>
+    <desc lang="en">Two teams consisting of a celebrity guest and a contestant guess words from clues.</desc>
   </programme>
-  <programme start="20260722123400 +0000" stop="20260722130000 +0000" channel="5e54187aae660e00093561d6">
-    <title lang="en">Pictionary</title>
-    <desc lang="en">The TV version of the classic game featuring celebrity captains Melissa Peterman and Corbin Bleu.</desc>
+  <programme start="20260723020000 +0000" stop="20260723023000 +0000" channel="5812bfbe4ced4f7b601b12e6">
+    <title lang="en">Tattletales</title>
+    <desc lang="en">Celebrity couples answer questions to win money for the audience.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722132500 +0000" channel="5e54187aae660e00093561d6">
-    <title lang="en">25 Words or Less</title>
-    <desc lang="en">Amanda Seales has to excavate the right answers from her teammates to carve out a win, or else they will hit rock bottom.</desc>
+    <title lang="en">Game Show Central</title>
+    <desc lang="en">no info available</desc>
   </programme>
   <programme start="20260722132500 +0000" stop="20260722135000 +0000" channel="5e54187aae660e00093561d6">
     <title lang="en">25 Words or Less</title>
@@ -1378,29 +1310,33 @@
     <title lang="en">Flip Side</title>
     <desc lang="en">The hilarious survey game show explores answers to questions from differing perspectives; host Jaleel White.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722103000 +0000" channel="6036e7c385749f00075dbd3b">
-    <title lang="en">Pictionary</title>
-    <desc lang="en">Hollywood celebrities and their teammates compete to guess words and phrases based on eachother&#x27;s drawings. Hosted by Jerry O&#x27;Connell.</desc>
+  <programme start="20260722231600 +0000" stop="20260722234100 +0000" channel="5e54187aae660e00093561d6">
+    <title lang="en">People Puzzler</title>
+    <desc lang="en">Three contestants put their pop culture knowledge to the test to complete crosswords based on the iconic puzzles in People Magazine.</desc>
   </programme>
-  <programme start="20260722103000 +0000" stop="20260722110000 +0000" channel="6036e7c385749f00075dbd3b">
-    <title lang="en">Pictionary</title>
-    <desc lang="en">Hollywood celebrities and their teammates compete to guess words and phrases based on eachother&#x27;s drawings. Hosted by Jerry O&#x27;Connell.</desc>
+  <programme start="20260722234100 +0000" stop="20260723000700 +0000" channel="5e54187aae660e00093561d6">
+    <title lang="en">America Says</title>
+    <desc lang="en">Campers face off against Complex Family as they race against a clock to guess how Americans completed survey questions covering every topic under the sun.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722113000 +0000" channel="6036e7c385749f00075dbd3b">
-    <title lang="en">Pictionary</title>
-    <desc lang="en">Hollywood celebrities and their teammates compete to guess words and phrases based on eachother&#x27;s drawings. Hosted by Jerry O&#x27;Connell.</desc>
+  <programme start="20260723000700 +0000" stop="20260723003300 +0000" channel="5e54187aae660e00093561d6">
+    <title lang="en">America Says</title>
+    <desc lang="en">A team of friends who love shooting pool and hanging out at bars compete against a group of faithful churchgoers.</desc>
   </programme>
-  <programme start="20260722113000 +0000" stop="20260722120000 +0000" channel="6036e7c385749f00075dbd3b">
-    <title lang="en">Pictionary</title>
-    <desc lang="en">Hollywood celebrities and their teammates compete to guess words and phrases based on eachother&#x27;s drawings. Hosted by Jerry O&#x27;Connell.</desc>
+  <programme start="20260723003300 +0000" stop="20260723010000 +0000" channel="5e54187aae660e00093561d6">
+    <title lang="en">America Says</title>
+    <desc lang="en">John Michael Higgins hosts as two teams of friends race against a clock to guess how America filled in the blanks on a series of survey questions covering every topic under the sun.</desc>
   </programme>
-  <programme start="20260722120000 +0000" stop="20260722123000 +0000" channel="6036e7c385749f00075dbd3b">
-    <title lang="en">Pictionary</title>
-    <desc lang="en">Hollywood celebrities and their teammates compete to guess words and phrases based on eachother&#x27;s drawings. Hosted by Jerry O&#x27;Connell.</desc>
+  <programme start="20260723010000 +0000" stop="20260723012500 +0000" channel="5e54187aae660e00093561d6">
+    <title lang="en">Common Knowledge</title>
+    <desc lang="en">Joey Fatone hosts as teams compete to answer practical, everyday questions, including one about what is a car battery&#x27;s worst enemy.</desc>
   </programme>
-  <programme start="20260722123000 +0000" stop="20260722130000 +0000" channel="6036e7c385749f00075dbd3b">
-    <title lang="en">Pictionary</title>
-    <desc lang="en">Hollywood celebrities and their teammates compete to guess words and phrases based on eachother&#x27;s drawings. Hosted by Jerry O&#x27;Connell.</desc>
+  <programme start="20260723012500 +0000" stop="20260723015000 +0000" channel="5e54187aae660e00093561d6">
+    <title lang="en">Common Knowledge</title>
+    <desc lang="en">Joey Fatone hosts as teams of three compete to answer practical, everyday questions, including one about clearance items at Costco.</desc>
+  </programme>
+  <programme start="20260723015000 +0000" stop="20260723021600 +0000" channel="5e54187aae660e00093561d6">
+    <title lang="en">Idiotest</title>
+    <desc lang="en">Tiffany Haddish and Sarah Tiana face off against Michael Kosta and Drew Lynch.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722133000 +0000" channel="6036e7c385749f00075dbd3b">
     <title lang="en">Pictionary</title>
@@ -1486,73 +1422,57 @@
     <title lang="en">25 Words or Less</title>
     <desc lang="en">The show where every word counts!</desc>
   </programme>
-  <programme start="20260722093500 +0000" stop="20260722100300 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  <programme start="20260722233000 +0000" stop="20260723000000 +0000" channel="6036e7c385749f00075dbd3b">
+    <title lang="en">25 Words or Less</title>
+    <desc lang="en">Double trouble... Or should we say triple trouble with Rick Fox on their team?</desc>
   </programme>
-  <programme start="20260722100300 +0000" stop="20260722103000 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  <programme start="20260723000000 +0000" stop="20260723003000 +0000" channel="6036e7c385749f00075dbd3b">
+    <title lang="en">25 Words or Less</title>
+    <desc lang="en">The show where every word counts!</desc>
   </programme>
-  <programme start="20260722103000 +0000" stop="20260722105400 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  <programme start="20260723003000 +0000" stop="20260723010000 +0000" channel="6036e7c385749f00075dbd3b">
+    <title lang="en">25 Words or Less</title>
+    <desc lang="en">Caroline Rhea, Jack Coleman, Gina Torres, Greg Grunberg</desc>
   </programme>
-  <programme start="20260722105400 +0000" stop="20260722112200 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  <programme start="20260723010000 +0000" stop="20260723013000 +0000" channel="6036e7c385749f00075dbd3b">
+    <title lang="en">25 Words or Less</title>
+    <desc lang="en">The show where every word counts!</desc>
   </programme>
-  <programme start="20260722112200 +0000" stop="20260722114900 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  <programme start="20260723013000 +0000" stop="20260723020000 +0000" channel="6036e7c385749f00075dbd3b">
+    <title lang="en">25 Words or Less</title>
+    <desc lang="en">Jackie Tohn wants to get away from today&#x27;s words!</desc>
   </programme>
-  <programme start="20260722114900 +0000" stop="20260722121800 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  <programme start="20260723020000 +0000" stop="20260723023000 +0000" channel="6036e7c385749f00075dbd3b">
+    <title lang="en">Pictionary</title>
+    <desc lang="en">Hollywood celebrities and their teammates compete to guess words and phrases based on eachother&#x27;s drawings. Hosted by Jerry O&#x27;Connell.</desc>
   </programme>
-  <programme start="20260722121800 +0000" stop="20260722124600 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-  </programme>
-  <programme start="20260722124600 +0000" stop="20260722131300 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  <programme start="20260722130000 +0000" stop="20260722131300 +0000" channel="643f03b9d8436e0008edf021">
+    <title lang="en">Family Feud Classic</title>
+    <desc lang="en">no info available</desc>
   </programme>
   <programme start="20260722131300 +0000" stop="20260722133900 +0000" channel="643f03b9d8436e0008edf021">
     <title lang="en">Family Feud</title>
     <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
   </programme>
   <programme start="20260722133900 +0000" stop="20260722140300 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <title lang="en">Family Feud Classic</title>
+    <desc lang="en">no info available</desc>
   </programme>
   <programme start="20260722140300 +0000" stop="20260722143200 +0000" channel="643f03b9d8436e0008edf021">
     <title lang="en">Family Feud</title>
     <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
   </programme>
-  <programme start="20260722143200 +0000" stop="20260722145600 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-  </programme>
-  <programme start="20260722145600 +0000" stop="20260722152400 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-  </programme>
-  <programme start="20260722152400 +0000" stop="20260722155100 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  <programme start="20260722143200 +0000" stop="20260722155100 +0000" channel="643f03b9d8436e0008edf021">
+    <title lang="en">Family Feud Classic</title>
+    <desc lang="en">no info available</desc>
   </programme>
   <programme start="20260722155100 +0000" stop="20260722161700 +0000" channel="643f03b9d8436e0008edf021">
     <title lang="en">Family Feud</title>
     <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
   </programme>
-  <programme start="20260722161700 +0000" stop="20260722164500 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-  </programme>
-  <programme start="20260722164500 +0000" stop="20260722171200 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  <programme start="20260722161700 +0000" stop="20260722171200 +0000" channel="643f03b9d8436e0008edf021">
+    <title lang="en">Family Feud Classic</title>
+    <desc lang="en">no info available</desc>
   </programme>
   <programme start="20260722171200 +0000" stop="20260722174100 +0000" channel="643f03b9d8436e0008edf021">
     <title lang="en">Family Feud</title>
@@ -1566,37 +1486,25 @@
     <title lang="en">Family Feud</title>
     <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
   </programme>
-  <programme start="20260722183300 +0000" stop="20260722190000 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-  </programme>
-  <programme start="20260722190000 +0000" stop="20260722192800 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  <programme start="20260722183300 +0000" stop="20260722192800 +0000" channel="643f03b9d8436e0008edf021">
+    <title lang="en">Family Feud Classic</title>
+    <desc lang="en">no info available</desc>
   </programme>
   <programme start="20260722192800 +0000" stop="20260722195400 +0000" channel="643f03b9d8436e0008edf021">
     <title lang="en">Family Feud</title>
     <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
   </programme>
   <programme start="20260722195400 +0000" stop="20260722202100 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <title lang="en">Family Feud Classic</title>
+    <desc lang="en">no info available</desc>
   </programme>
   <programme start="20260722202100 +0000" stop="20260722204700 +0000" channel="643f03b9d8436e0008edf021">
     <title lang="en">Family Feud</title>
     <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
   </programme>
-  <programme start="20260722204700 +0000" stop="20260722211400 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-  </programme>
-  <programme start="20260722211400 +0000" stop="20260722214200 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-  </programme>
-  <programme start="20260722214200 +0000" stop="20260722220900 +0000" channel="643f03b9d8436e0008edf021">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  <programme start="20260722204700 +0000" stop="20260722220900 +0000" channel="643f03b9d8436e0008edf021">
+    <title lang="en">Family Feud Classic</title>
+    <desc lang="en">no info available</desc>
   </programme>
   <programme start="20260722220900 +0000" stop="20260722223500 +0000" channel="643f03b9d8436e0008edf021">
     <title lang="en">Family Feud</title>
@@ -1606,17 +1514,25 @@
     <title lang="en">Family Feud</title>
     <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="5f7791b8372da90007fd45e6">
-    <title lang="en">The Price Is Right</title>
-    <desc lang="en">Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+  <programme start="20260722230400 +0000" stop="20260722233000 +0000" channel="643f03b9d8436e0008edf021">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="5f7791b8372da90007fd45e6">
-    <title lang="en">The Price Is Right</title>
-    <desc lang="en">Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+  <programme start="20260722233000 +0000" stop="20260722235600 +0000" channel="643f03b9d8436e0008edf021">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Two families, each composed of five members, compete against each other to guess the results of a survey of 100 people.</desc>
   </programme>
-  <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="5f7791b8372da90007fd45e6">
-    <title lang="en">The Price Is Right</title>
-    <desc lang="en">Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+  <programme start="20260722235600 +0000" stop="20260723002200 +0000" channel="643f03b9d8436e0008edf021">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  </programme>
+  <programme start="20260723002200 +0000" stop="20260723005100 +0000" channel="643f03b9d8436e0008edf021">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+  </programme>
+  <programme start="20260723005100 +0000" stop="20260723020000 +0000" channel="643f03b9d8436e0008edf021">
+    <title lang="en">Family Feud Classic</title>
+    <desc lang="en">no info available</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="5f7791b8372da90007fd45e6">
     <title lang="en">The Price Is Right</title>
@@ -1662,29 +1578,17 @@
     <title lang="en">The Price Is Right</title>
     <desc lang="en">Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722103000 +0000" channel="5ca671f215a62078d2ec0abf">
-    <title lang="en">Broad City</title>
-    <desc lang="en">Abbi and Ilana resort to desperate and unusual measures to scrape together enough cash for a Lil Wayne concert.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="5f7791b8372da90007fd45e6">
+    <title lang="en">The Price Is Right</title>
+    <desc lang="en">Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
   </programme>
-  <programme start="20260722103000 +0000" stop="20260722110000 +0000" channel="5ca671f215a62078d2ec0abf">
-    <title lang="en">Broad City</title>
-    <desc lang="en">Abbi decides to stop bumming off of Ilana and buy her own weed, and Ilana tries to be an adult by doing her own taxes.</desc>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="5f7791b8372da90007fd45e6">
+    <title lang="en">The Price Is Right</title>
+    <desc lang="en">Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722113000 +0000" channel="5ca671f215a62078d2ec0abf">
-    <title lang="en">The Sarah Silverman Program</title>
-    <desc lang="en">When the batteries in Sarah&#x27;s TV remote die, she embarks on an odyssey to find new ones; Brian and Steve discuss politics.</desc>
-  </programme>
-  <programme start="20260722113000 +0000" stop="20260722120000 +0000" channel="5ca671f215a62078d2ec0abf">
-    <title lang="en">The Sarah Silverman Program</title>
-    <desc lang="en">Sarah gets picked up on a DUI, and Brian insists that he&#x27;s a bisexual.</desc>
-  </programme>
-  <programme start="20260722120000 +0000" stop="20260722123000 +0000" channel="5ca671f215a62078d2ec0abf">
-    <title lang="en">Workaholics</title>
-    <desc lang="en">The story of how Adam, Blake and Ders first met.</desc>
-  </programme>
-  <programme start="20260722123000 +0000" stop="20260722130000 +0000" channel="5ca671f215a62078d2ec0abf">
-    <title lang="en">Workaholics</title>
-    <desc lang="en">Things get spooky when the guys discover a former employee may be haunting the office.</desc>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="5f7791b8372da90007fd45e6">
+    <title lang="en">The Price Is Right</title>
+    <desc lang="en">Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722133000 +0000" channel="5ca671f215a62078d2ec0abf">
     <title lang="en">Workaholics</title>
@@ -1762,13 +1666,29 @@
     <title lang="en">RENO 911!</title>
     <desc lang="en">Tommy Hawk, bounty hunter, and reality TV star runs afoul of the Reno Sheriff&#x27;s Department.</desc>
   </programme>
-  <programme start="20260722090000 +0000" stop="20260722104500 +0000" channel="545943f1c9f133a519bbac92">
-    <title lang="en">Mystery Science Theater 3000: The Rebel Set</title>
-    <desc lang="en">Three coffee shop customers help an owner rob an armored car.</desc>
+  <programme start="20260722233000 +0000" stop="20260723000000 +0000" channel="5ca671f215a62078d2ec0abf">
+    <title lang="en">RENO 911!</title>
+    <desc lang="en">Reno&#x27;s Mayor Hernandez asks the Sheriff&#x27;s Department for help, and the deputies must decide whether to uphold the law or uphold local government.</desc>
   </programme>
-  <programme start="20260722104500 +0000" stop="20260722124500 +0000" channel="545943f1c9f133a519bbac92">
-    <title lang="en">MST3K: The Christmas That Almost Wasn&#x27;t</title>
-    <desc lang="en">The gang gets in the holiday spirit with the tale of a plucky lawyer who sets out to save Santa Claus from the clutches of a spoilsport zillionaire.</desc>
+  <programme start="20260723000000 +0000" stop="20260723003000 +0000" channel="5ca671f215a62078d2ec0abf">
+    <title lang="en">South Park</title>
+    <desc lang="en">When the boys learn that talk shows offer prizes to people who are grossly disfigured they can&#x27;t sign Butters up fast enough.</desc>
+  </programme>
+  <programme start="20260723003000 +0000" stop="20260723010000 +0000" channel="5ca671f215a62078d2ec0abf">
+    <title lang="en">South Park</title>
+    <desc lang="en">While the adults trapped at a time-share sales meeting, Stan is challenged by the best skier on the mountain.</desc>
+  </programme>
+  <programme start="20260723010000 +0000" stop="20260723013000 +0000" channel="5ca671f215a62078d2ec0abf">
+    <title lang="en">South Park</title>
+    <desc lang="en">All the kids in South Park are glued to the TV, wild with anticipation to see the first trailer for the latest Terrance and Phillip movie.</desc>
+  </programme>
+  <programme start="20260723013000 +0000" stop="20260723020000 +0000" channel="5ca671f215a62078d2ec0abf">
+    <title lang="en">South Park</title>
+    <desc lang="en">Stan is appalled when he realizes the veal he&#x27;s been eating is, in fact, the meat from little baby calves.</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723023000 +0000" channel="5ca671f215a62078d2ec0abf">
+    <title lang="en">South Park</title>
+    <desc lang="en">The boys fire Butters as their new friend. Devastation over his rejection unleashes Butters&#x27; dark side and Professor Chaos is born.</desc>
   </programme>
   <programme start="20260722124500 +0000" stop="20260722144500 +0000" channel="545943f1c9f133a519bbac92">
     <title lang="en">MST3K: Invasion U.S.A.</title>
@@ -1798,17 +1718,17 @@
     <title lang="en">MST3K Shorts</title>
     <desc lang="en">A scientist and a reporter discover the lost city of Atlantis, a technologically advanced society.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="5f15e3cccf49290007053c67">
-    <title lang="en">Hunter</title>
-    <desc lang="en">Hunter and McCall&#x27;s investigation of a killing in Chinatown leads them to a Chinese gang leader being pursued by a police officer with a personal interest in the case.</desc>
+  <programme start="20260722231500 +0000" stop="20260723000000 +0000" channel="545943f1c9f133a519bbac92">
+    <title lang="en">Backlot: MST3K 25th Anniversary</title>
+    <desc lang="en">In part one of the complete history of MST3K, Joel and the rest of the crew discuss the show&#x27;s origins and the DIY feel of the early seasons.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="5f15e3cccf49290007053c67">
-    <title lang="en">Diagnosis Murder</title>
-    <desc lang="en">A psychiatrist murders his estranged wife and frames a patient for the crime.</desc>
+  <programme start="20260723000000 +0000" stop="20260723014500 +0000" channel="545943f1c9f133a519bbac92">
+    <title lang="en">MST3K: Hobgoblins</title>
+    <desc lang="en">Mike and the Bots suffer through the 1988 B movie &quot;Hobgoblins,&quot; the story of tiny goblin-like creatures who attack a group of teenagers.</desc>
   </programme>
-  <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="5f15e3cccf49290007053c67">
-    <title lang="en">Diagnosis Murder</title>
-    <desc lang="en">A sultry but sinister pharmaceutical rep is dead set on winning the heart of the hospital&#x27;s chief of staff.</desc>
+  <programme start="20260723014500 +0000" stop="20260723034500 +0000" channel="545943f1c9f133a519bbac92">
+    <title lang="en">Mystery Science Theater 3000: Outlaw (of Gor)</title>
+    <desc lang="en">A hero and loser friend are transplanted to the planet of Gor by mysterious forces and are soon caught up in an evil sorcerer&#x27;s plot of dastardly evil.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="5f15e3cccf49290007053c67">
     <title lang="en">Diagnosis Murder</title>
@@ -1854,9 +1774,17 @@
     <title lang="en">MacGyver</title>
     <desc lang="en">MacGyver plays a deadly game against a double agent who uses the world&#x27;s most sophisticated electronic equipment in an attempt to silence MacGyver for good.</desc>
   </programme>
-  <programme start="20260722093000 +0000" stop="20260722120000 +0000" channel="5f4d878d3d19b30007d2e782">
-    <title lang="en">Grease</title>
-    <desc lang="en">Grease is the one that you want! Go back to high school with Pink Lady Sandy (Olivia Newton-John), leader of the bad-boy T-Birds, Danny (John Travolta), and a rockin&#x27; and rollin&#x27; all-star cast.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="5f15e3cccf49290007053c67">
+    <title lang="en">Diagnosis Murder</title>
+    <desc lang="en">A surgeon (Wayne Rogers) drops dead while he&#x27;s operating on another doctor (Jack Klugman).</desc>
+  </programme>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="5f15e3cccf49290007053c67">
+    <title lang="en">Diagnosis Murder</title>
+    <desc lang="en">A pilot of an airliner carrying Dr. Sloan and Amanda to a medical conference in Europe is murdered.</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="5f15e3cccf49290007053c67">
+    <title lang="en">Diagnosis Murder</title>
+    <desc lang="en">A wealthy woman and her lover concoct an elaborate scheme to do in her husband.</desc>
   </programme>
   <programme start="20260722120000 +0000" stop="20260722143000 +0000" channel="5f4d878d3d19b30007d2e782">
     <title lang="en">Grease 2</title>
@@ -1878,9 +1806,9 @@
     <title lang="en">Grease 2</title>
     <desc lang="en">Return to rockin’ Rydell High for a whole new term! It’s 1961, two years after the original &quot;Grease&quot; gang graduated, and there’s a new crop of seniors – and new members of the coolest cliques on campus.</desc>
   </programme>
-  <programme start="20260722091500 +0000" stop="20260722114500 +0000" channel="5ca525b650be2571e3943c63">
-    <title lang="en">Christine (1983)</title>
-    <desc lang="en">Based on the novel by Stephen King, CHRISTINE tells the story of a 1957 Plymouth that takes on human characteristics.</desc>
+  <programme start="20260723000000 +0000" stop="20260723030000 +0000" channel="5f4d878d3d19b30007d2e782">
+    <title lang="en">King Kong (1976)</title>
+    <desc lang="en">A petroleum exploration expedition comes to an isolated island and encounters a colossal giant gorilla.</desc>
   </programme>
   <programme start="20260722114500 +0000" stop="20260722140000 +0000" channel="5ca525b650be2571e3943c63">
     <title lang="en">Pet Sematary (1989)</title>
@@ -1902,13 +1830,9 @@
     <title lang="en">Rain Man</title>
     <desc lang="en">Tom Cruise stars as an idealistic young wheeler-dealer whose life is changed forever when he discovers he has an autistic savant older brother (Dustin Hoffman, in a Best Actor Oscar-winning performance).</desc>
   </programme>
-  <programme start="20260722083000 +0000" stop="20260722103000 +0000" channel="5f4d86f519358a00072b978e">
-    <title lang="en">King of New York</title>
-    <desc lang="en">Recently freed from prison, Frank White (Christopher Walken) begins to exterminate the drug lords who rose to power in his absence. When a group of enraged cops declares war on him, Frank&#x27;s answer is to put a contract out on the cops.</desc>
-  </programme>
-  <programme start="20260722103000 +0000" stop="20260722124500 +0000" channel="5f4d86f519358a00072b978e">
-    <title lang="en">Double Jeopardy</title>
-    <desc lang="en">Libby Parsons, who discovers that the husband she’s convicted of murdering staged his own “death” and framed her for the crime. Released on parole, she skips town to find him–and that puts parole officer Travis Lehman on her trail.</desc>
+  <programme start="20260723000000 +0000" stop="20260723021500 +0000" channel="5ca525b650be2571e3943c63">
+    <title lang="en">Footloose</title>
+    <desc lang="en">A rebellious city boy finds himself in an uptight Midwestern town where dancing and therefore all youthful joy has been banned.</desc>
   </programme>
   <programme start="20260722124500 +0000" stop="20260722150000 +0000" channel="5f4d86f519358a00072b978e">
     <title lang="en">Cop Land</title>
@@ -1930,9 +1854,13 @@
     <title lang="en">In Too Deep</title>
     <desc lang="en">Officer Cole is assigned to infiltrate the syndicate of God, a deadly crime lord. But as Cole sinks deeper into God&#x27;s crew, he begins to get in over his head, until the line that separates his true identity from his street persona begins to disappear.</desc>
   </programme>
-  <programme start="20260722074500 +0000" stop="20260722103000 +0000" channel="62ba60f059624e000781c436">
-    <title lang="en">The Score</title>
-    <desc lang="en">When safecracker Nick decides it&#x27;s time to settle down with his girlfriend Diane and stick to his legitimate business, running a jazz nightclub, his friend and partner Max has other plans.</desc>
+  <programme start="20260723000000 +0000" stop="20260723020000 +0000" channel="5f4d86f519358a00072b978e">
+    <title lang="en">Ace Ventura: Pet Detective</title>
+    <desc lang="en">Ace Ventura Pet Detective is on the case to find the Miami Dolphins&#x27; missing mascot and quarterback Dan Marino. He goes eye to eye with sharks, stakes out the Miami Dolphins and woos and wows the ladies. He always gets his man...or beast.</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723040000 +0000" channel="5f4d86f519358a00072b978e">
+    <title lang="en">Ace Ventura: When Nature Calls</title>
+    <desc lang="en">Africa&#x27;s the place where Ace is on the case, setting out to rescue an animal he loathes - a bat! If you&#x27;re ready to laugh like a pack of hyenas, if you want more fun than an industrial-sized barrel of monkeys, you&#x27;ll know what to do. Heed the call.</desc>
   </programme>
   <programme start="20260722103000 +0000" stop="20260722131500 +0000" channel="62ba60f059624e000781c436">
     <title lang="en">Shooter</title>
@@ -1954,9 +1882,9 @@
     <title lang="en">The Italian Job (2003)</title>
     <desc lang="en">The plan was flawless. The execution was perfect. Charlie Croker pulled off the crime of a lifetime. The one thing that he didn&#x27;t plan on was being double-crossed.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722124500 +0000" channel="561c5b0dada51f8004c4d855">
-    <title lang="en">Frank Capra&#x27;s A Hole In The Head</title>
-    <desc lang="en">Frank Capra catches lightning in bottle again when he teams with Frank Sinatra and Eleanor Parker in this heartwarming comedy about the problems of a footloose widower, his 12-year-old son, a bongo-playing showgirl and a matchmaking sister-in-law.</desc>
+  <programme start="20260723000000 +0000" stop="20260723030000 +0000" channel="62ba60f059624e000781c436">
+    <title lang="en">Vanilla Sky</title>
+    <desc lang="en">Young and wealthy, David can have anything his heart desires. But his life seems incomplete. One night, David meets the woman of his dreams and believes he may have found the missing piece.</desc>
   </programme>
   <programme start="20260722124500 +0000" stop="20260722143000 +0000" channel="561c5b0dada51f8004c4d855">
     <title lang="en">Another Time, Another Place</title>
@@ -1978,9 +1906,13 @@
     <title lang="en">Ulysses</title>
     <desc lang="en">Acting legends Kirk Douglas and Anthony Quinn star in Homer’s adventure classic!</desc>
   </programme>
-  <programme start="20260722080000 +0000" stop="20260722103000 +0000" channel="5cb0cae7a461406ffe3f5213">
-    <title lang="en">Mission: Impossible</title>
-    <desc lang="en">Ethan Hunt, a secret agent, is framed for the deaths of his espionage team and attempts to flee government assassins after him. He races against the clock in order to discover the truth.</desc>
+  <programme start="20260722233000 +0000" stop="20260723020000 +0000" channel="561c5b0dada51f8004c4d855">
+    <title lang="en">The Vikings</title>
+    <desc lang="en">Legends Kirk Douglas, Tony Curtis, Ernest Borgnine and Janet Leigh dazzle in this epic chronicle of brutal rivalry and bloodthirsty ambition as two brothers are locked in a battle that will decide their fate...and that of a beautiful princess.</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723043000 +0000" channel="561c5b0dada51f8004c4d855">
+    <title lang="en">Moby Dick (1956)</title>
+    <desc lang="en">This stellar retelling of Melville&#x27;s classic is unsurpassed in entertainment, imagination and high adventure. Consumed by an insane rage, Captain Ahab (Gregory Peck) has but one purpose in life - revenge on the great white whale who disfigured him.</desc>
   </programme>
   <programme start="20260722103000 +0000" stop="20260722131500 +0000" channel="5cb0cae7a461406ffe3f5213">
     <title lang="en">Mission: Impossible II</title>
@@ -2002,13 +1934,9 @@
     <title lang="en">Mission: Impossible III</title>
     <desc lang="en">Ethan Hunt hurdles into spectacular new adventures from Rome to Shanghai as he races to rescue a captured agent and stop Davian from eliminating his next target, Ethan’s wife.</desc>
   </programme>
-  <programme start="20260722083400 +0000" stop="20260722103200 +0000" channel="645e7828e1979c00087b75b4">
-    <title lang="en">Scary Stories to Tell in the Dark</title>
-    <desc lang="en">On Halloween 1968, Stella and her two friends meet a mysterious drifter, Ramón, and uncover a sinister notebook of stories.</desc>
-  </programme>
-  <programme start="20260722103200 +0000" stop="20260722123000 +0000" channel="645e7828e1979c00087b75b4">
-    <title lang="en">Regression</title>
-    <desc lang="en">A detective (Ethan Hawke) and a psychoanalyst (David Thewlis) uncover evidence of a satanic cult while investigating the rape of a traumatized teen (Emma Watson).</desc>
+  <programme start="20260723000000 +0000" stop="20260723030000 +0000" channel="5cb0cae7a461406ffe3f5213">
+    <title lang="en">Mission: Impossible - Ghost Protocol</title>
+    <desc lang="en">Agent Ethan Hunt and his elite team go underground after a bombing implicates them as terrorists. While trying to clear their name, the team uncovers a plot to start a nuclear war.</desc>
   </programme>
   <programme start="20260722123000 +0000" stop="20260722140700 +0000" channel="645e7828e1979c00087b75b4">
     <title lang="en">Alice, Darling</title>
@@ -2034,13 +1962,13 @@
     <title lang="en">Alice, Darling</title>
     <desc lang="en">Pushed to the breaking point, a woman enjoys some much-needed time away from her psychologically abusive boyfriend. However, when his vengeance is unleashed, it tests her strength, her courage, and the bonds of deep-rooted friendships.</desc>
   </programme>
-  <programme start="20260722090000 +0000" stop="20260722110000 +0000" channel="5f4d863b98b41000076cd061">
-    <title lang="en">Jackass Number Two</title>
-    <desc lang="en">Prepare yourself for fits of uncontrollable laughter and waves of nausea as the guys launch their battered bodies into an onslaught of absurd situations.</desc>
+  <programme start="20260722233600 +0000" stop="20260723012300 +0000" channel="645e7828e1979c00087b75b4">
+    <title lang="en">Miller&#x27;s Girl</title>
+    <desc lang="en">A creative writing assignment yields complex results between a teacher and his talented student.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722123000 +0000" channel="5f4d863b98b41000076cd061">
-    <title lang="en">Jackass 2.5</title>
-    <desc lang="en">You&#x27;ll laugh till it hurts as Johnny Knoxville and the guys take you behind the scenes with Jackass 2.5, talking about this excess of never-before-seen stunts in hilarious new interviews.</desc>
+  <programme start="20260723012300 +0000" stop="20260723032100 +0000" channel="645e7828e1979c00087b75b4">
+    <title lang="en">Black Bear</title>
+    <desc lang="en">A filmmaker plays a calculated game of desire and jealousy in pursuit of a work of art that blurs the boundaries between autobiography and invention.</desc>
   </programme>
   <programme start="20260722123000 +0000" stop="20260722143000 +0000" channel="5f4d863b98b41000076cd061">
     <title lang="en">Jackass 3</title>
@@ -2066,9 +1994,13 @@
     <title lang="en">Ghost World</title>
     <desc lang="en">The story of neo-cool Enid and Rebecca who, faced with graduation from high school take a hard look at the world they wryly observe. When Rebecca focuses her attention on mutual romantic fixation Josh, the girls friendship is forever changed.</desc>
   </programme>
-  <programme start="20260722084500 +0000" stop="20260722113000 +0000" channel="64b585f84ea480000838e446">
-    <title lang="en">Good Will Hunting</title>
-    <desc lang="en">The hit Oscar-winning drama which launched the careers of Matt Damon and Ben Affleck tells the tale of a headstrong, working-class genius who&#x27;s failing the lessons of life, until he meets a relatable psychology professor (Robin Williams).</desc>
+  <programme start="20260723000000 +0000" stop="20260723020000 +0000" channel="5f4d863b98b41000076cd061">
+    <title lang="en">Real Life</title>
+    <desc lang="en">In his directorial debut. Brooks presents a hilarious account of what happens to a typical American family when a group of filmmakers moves in with them to record &quot;real life.&quot;</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723041500 +0000" channel="5f4d863b98b41000076cd061">
+    <title lang="en">Mother</title>
+    <desc lang="en">A neurotic, twice divorced sci-fi writer moves back in with his mom to solve his personal problems.</desc>
   </programme>
   <programme start="20260722113000 +0000" stop="20260722140000 +0000" channel="64b585f84ea480000838e446">
     <title lang="en">Popeye</title>
@@ -2090,9 +2022,9 @@
     <title lang="en">The Cider House Rules</title>
     <desc lang="en">The Oscar-winning audience favorite of a man searching for a sense of belonging. Adapted from the screen from his bestselling novel, John Irving&#x27;s powerful lesson about life, love, and home earned raves from critics and moviegoers everywhere.</desc>
   </programme>
-  <programme start="20260722094501 +0000" stop="20260722120001 +0000" channel="5c665db3e6c01b72c4977bc2">
-    <title lang="en">Vampire in Brooklyn</title>
-    <desc lang="en">As the vampire Maximillian, the popular star is the most diabolical, dashing and definitely undead dude in the ‘hood’.</desc>
+  <programme start="20260723000000 +0000" stop="20260723021500 +0000" channel="64b585f84ea480000838e446">
+    <title lang="en">Trapped</title>
+    <desc lang="en">The Jennings fight for their daughter&#x27;s life after she is kidnapped by an experienced gang of thieves.</desc>
   </programme>
   <programme start="20260722120001 +0000" stop="20260722140001 +0000" channel="5c665db3e6c01b72c4977bc2">
     <title lang="en">The Lair Of The White Worm</title>
@@ -2118,9 +2050,9 @@
     <title lang="en">Frankenhooker</title>
     <desc lang="en">A medical student sets out to recreate his decapitated fiancée by building her a new body made of Manhattan street prostitutes.</desc>
   </programme>
-  <programme start="20260722093000 +0000" stop="20260722114500 +0000" channel="5a4d3a00ad95e4718ae8d8db">
-    <title lang="en">Clueless</title>
-    <desc lang="en">A US West Coast teen lifestyle parody centered around Cher, a popular high school girl who spends her days playing match-maker, helping her friends with fashion choices, and looking for a boyfriend.</desc>
+  <programme start="20260723000001 +0000" stop="20260723021501 +0000" channel="5c665db3e6c01b72c4977bc2">
+    <title lang="en">Vampire in Brooklyn</title>
+    <desc lang="en">As the vampire Maximillian, the popular star is the most diabolical, dashing and definitely undead dude in the ‘hood’.</desc>
   </programme>
   <programme start="20260722114500 +0000" stop="20260722134500 +0000" channel="5a4d3a00ad95e4718ae8d8db">
     <title lang="en">Mean Girls</title>
@@ -2146,9 +2078,9 @@
     <title lang="en">Mean Girls</title>
     <desc lang="en">Cady thinks she understands &quot;survival of the fittest.&quot; However, the law of the wild takes a whole new meaning when the homeschooled 15-year-old enters public high school for the first time.</desc>
   </programme>
-  <programme start="20260722084500 +0000" stop="20260722110000 +0000" channel="5b4e92e4694c027be6ecece1">
-    <title lang="en">The Illusionist</title>
-    <desc lang="en">In turn-of-the-century Vienna, a magician uses his abilities to secure the love of a woman far above his social standing.</desc>
+  <programme start="20260723000000 +0000" stop="20260723021500 +0000" channel="5a4d3a00ad95e4718ae8d8db">
+    <title lang="en">Clueless</title>
+    <desc lang="en">A US West Coast teen lifestyle parody centered around Cher, a popular high school girl who spends her days playing match-maker, helping her friends with fashion choices, and looking for a boyfriend.</desc>
   </programme>
   <programme start="20260722110000 +0000" stop="20260722140000 +0000" channel="5b4e92e4694c027be6ecece1">
     <title lang="en">Rain Man</title>
@@ -2170,9 +2102,9 @@
     <title lang="en">Moonlight</title>
     <desc lang="en">A look at three defining chapters in the life of Chiron, a young Black man growing up in Miami. His epic journey to manhood is guided by the kindness, support, and love of the community that helps raise him.</desc>
   </programme>
-  <programme start="20260722073000 +0000" stop="20260722111500 +0000" channel="5f4d8594eb979c0007706de7">
-    <title lang="en">The Wolf of Wall Street</title>
-    <desc lang="en">Sex. Money. Power. Drugs.  Brace yourself for a true story from legendary filmmaker Martin Scorsese. Leonardo DiCaprio stars as a young stockbroker hungry for a life of non-stop thrills, where corruption was king and more was never enough.</desc>
+  <programme start="20260723000000 +0000" stop="20260723030000 +0000" channel="5b4e92e4694c027be6ecece1">
+    <title lang="en">Forrest Gump</title>
+    <desc lang="en">Tom Hanks gives an astonishing performance as Forrest, an everyman whose simple innocence comes to embody a generation.</desc>
   </programme>
   <programme start="20260722111500 +0000" stop="20260722134500 +0000" channel="5f4d8594eb979c0007706de7">
     <title lang="en">Nightcrawler</title>
@@ -2194,9 +2126,9 @@
     <title lang="en">Snatch</title>
     <desc lang="en">A diamond heist gone haywire launches gangsters, bookies, and a dog on a rollicking ride through the rugged world of bare-knuckle boxing in search of the missing stone. Critically acclaimed comedy from Guy Ritchie.</desc>
   </programme>
-  <programme start="20260722091506 +0000" stop="20260722113006 +0000" channel="5b4e69e08291147bd04a9fd7">
-    <title lang="en">Civil War</title>
-    <desc lang="en">An adrenaline-fueled thrill ride through a near-future fractured America balanced on the razor&#x27;s edge. A group of journalists (led by Kirsten Dunst) must race through battlefields to the White House before DC falls.</desc>
+  <programme start="20260723000000 +0000" stop="20260723024500 +0000" channel="5f4d8594eb979c0007706de7">
+    <title lang="en">Pain &amp; Gain</title>
+    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong. Now, living large will take everything they&#x27;ve got in this unbelievable and outrageous true story.</desc>
   </programme>
   <programme start="20260722113006 +0000" stop="20260722140006 +0000" channel="5b4e69e08291147bd04a9fd7">
     <title lang="en">A Most Wanted Man</title>
@@ -2218,9 +2150,9 @@
     <title lang="en">Pacific Heights</title>
     <desc lang="en">A couple work hard to renovate their dream house and become landlords to pay for it. Unfortunately, one of their tenants has plans of his own.</desc>
   </programme>
-  <programme start="20260722093000 +0000" stop="20260722120000 +0000" channel="569546031a619b8f07ce6e25">
-    <title lang="en">Mother&#x27;s Day (2012)</title>
-    <desc lang="en">Rebecca DeMornay is terrifying in this brutal gorefest. When her sons break into a home and take the owners hostage, she teaches them what real torture is all about. Costars Shawn Ashmore.</desc>
+  <programme start="20260723000006 +0000" stop="20260723023006 +0000" channel="5b4e69e08291147bd04a9fd7">
+    <title lang="en">Colombiana</title>
+    <desc lang="en">Zoe Saldaña plays a young woman out to get revenge on the mobster responsible for her parents&#x27; deaths. Produced by Luc Besson and Ariel Zeitoun.</desc>
   </programme>
   <programme start="20260722120000 +0000" stop="20260722141500 +0000" channel="569546031a619b8f07ce6e25">
     <title lang="en">Darkness</title>
@@ -2242,9 +2174,9 @@
     <title lang="en">Maximum Overdrive</title>
     <desc lang="en">After a mysterious comet turns every machine on Earth into a homicidal rampage device, the survivors at the Dixie Boy Truck Stop are making a stand, and human vengeance goes into overdrive.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722121500 +0000" channel="5b64a245a202b3337f09e51d">
-    <title lang="en">Sonic the Hedgehog</title>
-    <desc lang="en">The world needed a hero; we got a hedgehog. Superpowered with speed, Sonic races to save the world and stop evil genius Dr. Robotnik from world domination. Jim Carrey, Ben Schwartz, and James Marsden star in the adventure that the whole family will enjoy.</desc>
+  <programme start="20260723000000 +0000" stop="20260723023000 +0000" channel="569546031a619b8f07ce6e25">
+    <title lang="en">Christine (1983)</title>
+    <desc lang="en">Based on the novel by Stephen King, CHRISTINE tells the story of a 1957 Plymouth that takes on human characteristics.</desc>
   </programme>
   <programme start="20260722121500 +0000" stop="20260722151500 +0000" channel="5b64a245a202b3337f09e51d">
     <title lang="en">Dungeons &amp; Dragons: Honor Among Thieves</title>
@@ -2266,9 +2198,9 @@
     <title lang="en">Aeon Flux</title>
     <desc lang="en">Academy Award-winner Charlize Theron stars as Aeon Flux, the underground operative fighting totalitarian rule in 25th-century Earth&#x27;s last living city.</desc>
   </programme>
-  <programme start="20260722093004 +0000" stop="20260722111504 +0000" channel="5b4e94282d4ec87bdcbb87cd">
-    <title lang="en">Billy the Kid</title>
-    <desc lang="en">When a bounty hunter kills a member of an outlaw gang, all Hell breaks loose in this shoot-‘em-up tale of gun smoke and justice in the Old West.</desc>
+  <programme start="20260723000000 +0000" stop="20260723030000 +0000" channel="5b64a245a202b3337f09e51d">
+    <title lang="en">Dungeons &amp; Dragons: Honor Among Thieves</title>
+    <desc lang="en">A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic. Still, things go dangerously awry when they run afoul of the wrong people in this hilarious and action-packed adventure.</desc>
   </programme>
   <programme start="20260722111504 +0000" stop="20260722141504 +0000" channel="5b4e94282d4ec87bdcbb87cd">
     <title lang="en">End of the Rope</title>
@@ -2290,17 +2222,9 @@
     <title lang="en">Jericho</title>
     <desc lang="en">Amnesiac gunman Jericho is rescued and befriended by a charismatic and itinerant cowboy/preacher named Joshua. Together they survive certain danger, while Jericho searches to find the answer to his lost identity.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="5efbd39f8c4ce900075d7698">
-    <title lang="en">Star Trek: The Original Series</title>
-    <desc lang="en">After Dr. McCoy helps the leader of a planet populated by people with powerful psionic abilities, they decide to force him to stay by torturing his comrades until he submits.</desc>
-  </programme>
-  <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="5efbd39f8c4ce900075d7698">
-    <title lang="en">Star Trek: The Original Series</title>
-    <desc lang="en">Hyper-accelerated aliens, invisible to the naked eye, take over the Enterprise.</desc>
-  </programme>
-  <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="5efbd39f8c4ce900075d7698">
-    <title lang="en">Star Trek: The Original Series</title>
-    <desc lang="en">On a planet doomed to destruction, Kirk, Spock, and McCoy become involved with two aliens who use them as laboratory animals in a bizarre series of tests on an alien empath who may be the savior of her planet.</desc>
+  <programme start="20260723000004 +0000" stop="20260723023004 +0000" channel="5b4e94282d4ec87bdcbb87cd">
+    <title lang="en">Geronimo: An American Legend</title>
+    <desc lang="en">An American legend comes to life in this epic Western starring Jason Patric, Robert Duvall, Gene Hackman and Wes Studi as Geronimo, giving a stunning performance as the fearless warrior who was the last Indian leader to surrender to the white man.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="5efbd39f8c4ce900075d7698">
     <title lang="en">Star Trek: The Original Series</title>
@@ -2346,17 +2270,17 @@
     <title lang="en">Star Trek: The Original Series</title>
     <desc lang="en">Kirk, Spock, and McCoy enter a time portal and get stuck in the past on a planet about to be consumed by a nova.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="695c32e61ca20bb8ca802eb9">
-    <title lang="en">Star Trek: The Next Generation</title>
-    <desc lang="en">Riker returns from an away team mission wounded and infected with microbes from the planet below. He is soon in a coma in sick bay, the microbes having fused itself to his sciatic nerve and impeding his normal functions.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="5efbd39f8c4ce900075d7698">
+    <title lang="en">Star Trek: The Original Series</title>
+    <desc lang="en">The Enterprise is in danger when Janice Lester, one of Kirk&#x27;s former lovers, steals his body.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="695c32e61ca20bb8ca802eb9">
-    <title lang="en">Star Trek: The Next Generation</title>
-    <desc lang="en">The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of a binary star where they are expecting a massive stellar explosion to occur in a few hours.</desc>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="5efbd39f8c4ce900075d7698">
+    <title lang="en">Star Trek: The Original Series</title>
+    <desc lang="en">Kirk and his crew are at deadly risk from an alien creature that feeds on the salt in a human body and can take on any form.</desc>
   </programme>
-  <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="695c32e61ca20bb8ca802eb9">
-    <title lang="en">Star Trek: The Next Generation</title>
-    <desc lang="en">After a century of silence, the Enterprise receives a message from the Sheliac system informing them that they have discovered a human colony on a world in their sector.</desc>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="5efbd39f8c4ce900075d7698">
+    <title lang="en">Star Trek: The Original Series</title>
+    <desc lang="en">A powerful teenage boy wreaks havoc aboard the U.S.S. Enterprise.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="695c32e61ca20bb8ca802eb9">
     <title lang="en">Star Trek: The Next Generation</title>
@@ -2402,17 +2326,17 @@
     <title lang="en">Star Trek: The Next Generation</title>
     <desc lang="en">Much to Picard&#x27;s displeasure, Q reappears on the Enterprise, claiming to have been ejected from the Q Continuum, and therefore, lost his powers.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="65c69bbfd77d450008c7ffee">
-    <title lang="en">Star Trek: Deep Space Nine</title>
-    <desc lang="en">Sisko, Odo, O&#x27;Brien, and Worf enter Klingon territory on a suicide mission to expose Gowron, the Klingon leader, as a Changeling.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="695c32e61ca20bb8ca802eb9">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">The widow of respected scientist Dr. Nel Apgar accuses Riker of seducing her and killing her husband. Rather than turn Riker over for unfavorable trial, the Enterprise reconstructs the facts.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="65c69bbfd77d450008c7ffee">
-    <title lang="en">Star Trek: Deep Space Nine</title>
-    <desc lang="en">A severely injured crewmember&#x27;s life hangs in the balance as Sisko battles for control of a crashed Jem&#x27;Hadar warship.</desc>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="695c32e61ca20bb8ca802eb9">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">The Enterprise C enters the Enterprise D&#x27;s time and space continuum, where they find Picard and crew in a constant state of war with the Klingons, and only Guinan knows it.</desc>
   </programme>
-  <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="65c69bbfd77d450008c7ffee">
-    <title lang="en">Star Trek: Deep Space Nine</title>
-    <desc lang="en">Worf helps Quark woo a visiting Klingon woman, even though he is in love with her.</desc>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="695c32e61ca20bb8ca802eb9">
+    <title lang="en">Star Trek: The Next Generation</title>
+    <desc lang="en">After returning from a cybernetics conference to the Enterprise, Data creates his own &quot;child,&quot; much to the chagrin of his captain, and without regards to the ramifications with Starfleet.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="65c69bbfd77d450008c7ffee">
     <title lang="en">Star Trek: Deep Space Nine</title>
@@ -2458,17 +2382,17 @@
     <title lang="en">Star Trek: Deep Space Nine</title>
     <desc lang="en">While Worf and Garak are imprisoned in the Gamma Quadrant, Sisko learns of a Dominion invasion.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="634dacf51d90320007fcd5fa">
-    <title lang="en">Star Trek: Voyager</title>
-    <desc lang="en">Tom and B&#x27;Elanna&#x27;s relationship could be the loser when Tom enters a race.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="65c69bbfd77d450008c7ffee">
+    <title lang="en">Star Trek: Deep Space Nine</title>
+    <desc lang="en">Led by Gul Dukat, Cardassia joins the Dominion and prepares to take over the Alpha Quadrant.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="634dacf51d90320007fcd5fa">
-    <title lang="en">Star Trek: Voyager</title>
-    <desc lang="en">Tuvok&#x27;s investigation of a series of mysterious attacks aboard Voyager leads him to a most unlikely suspect: himself.</desc>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="65c69bbfd77d450008c7ffee">
+    <title lang="en">Star Trek: Deep Space Nine</title>
+    <desc lang="en">When Bashir is chosen as the model for Starfleet&#x27;s holographic doctor program, the process threatens to expose a dark secret from his past.</desc>
   </programme>
-  <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="634dacf51d90320007fcd5fa">
-    <title lang="en">Star Trek: Voyager</title>
-    <desc lang="en">The Doctor is forced to work on an alien ship where patients&#x27; care is determined by their social status instead of medical need.</desc>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="65c69bbfd77d450008c7ffee">
+    <title lang="en">Star Trek: Deep Space Nine</title>
+    <desc lang="en">Odo falls in love with a mysterious woman who has been targeted for murder.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="634dacf51d90320007fcd5fa">
     <title lang="en">Star Trek: Voyager</title>
@@ -2514,17 +2438,17 @@
     <title lang="en">Star Trek: Voyager</title>
     <desc lang="en">The Voyager crew has been abducted and brainwashed to serve as workers in a severely short-handed industrial alien society.</desc>
   </programme>
-  <programme start="20260722094500 +0000" stop="20260722104500 +0000" channel="5f21ea08007a49000762d349">
-    <title lang="en">Air Disasters</title>
-    <desc lang="en">A look at the fatal consequences that can occur when a fire breaks out on a plane.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="634dacf51d90320007fcd5fa">
+    <title lang="en">Star Trek: Voyager</title>
+    <desc lang="en">To save Janeway and the rest of Voyager&#x27;s crew, Chakotay must convince her that her seemingly happy life as a worker on Quarra is not real.</desc>
   </programme>
-  <programme start="20260722104500 +0000" stop="20260722114500 +0000" channel="5f21ea08007a49000762d349">
-    <title lang="en">Air Disasters</title>
-    <desc lang="en">Follow the investigation of the 2015 Germanwings crash that put the blame not only on the co-pilot, but on the entire medical industry.</desc>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="634dacf51d90320007fcd5fa">
+    <title lang="en">Star Trek: Voyager</title>
+    <desc lang="en">Seven&#x27;s attempt to explore her human side distracts her from her duties and puts Voyager at risk.</desc>
   </programme>
-  <programme start="20260722114500 +0000" stop="20260722124500 +0000" channel="5f21ea08007a49000762d349">
-    <title lang="en">Aerial America</title>
-    <desc lang="en">Join us on this cross-country tour over iconic and unknown sights, and discover a side of America that you&#x27;ve never seen before.</desc>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="634dacf51d90320007fcd5fa">
+    <title lang="en">Star Trek: Voyager</title>
+    <desc lang="en">Q&#x27;s unruly and omnipotent son wreaks interstellar havoc when he is left in Janeway&#x27;s care.</desc>
   </programme>
   <programme start="20260722124500 +0000" stop="20260722134500 +0000" channel="5f21ea08007a49000762d349">
     <title lang="en">Aerial America</title>
@@ -2570,17 +2494,13 @@
     <title lang="en">Air Warriors</title>
     <desc lang="en">The inside story of the massive military transport aircraft, the C-17.</desc>
   </programme>
-  <programme start="20260722092100 +0000" stop="20260722101400 +0000" channel="65775d29dfed030008cb3db2">
-    <title lang="en">Modern Marvels</title>
-    <desc lang="en">The Cape Cod Canal represents an engineering feat many believed impossible; begun in 1909 during the Great Depression, this major commerce and recreational Intracoastal Waterway route showcases determination, ingenuity, and American spirit.</desc>
+  <programme start="20260723000000 +0000" stop="20260723011500 +0000" channel="5f21ea08007a49000762d349">
+    <title lang="en">Air Warriors</title>
+    <desc lang="en">The Spitfire became Britain&#x27;s key weapon in their air battles against Nazi Germany in Dunkirk, London, and Malta.</desc>
   </programme>
-  <programme start="20260722101400 +0000" stop="20260722120100 +0000" channel="65775d29dfed030008cb3db2">
-    <title lang="en">Modern Marvels</title>
-    <desc lang="en">Fast and powerful, they come in a hundred shapes and a thousand colors; to some, motorcycles symbolize freedom; to others, they simply stand for trouble; episode race back in time and see how, for over a hundred years, motorcycles inspired riders.</desc>
-  </programme>
-  <programme start="20260722120100 +0000" stop="20260722125400 +0000" channel="65775d29dfed030008cb3db2">
-    <title lang="en">Modern Marvels</title>
-    <desc lang="en">Inventions for holding off a global warming meltdown include giant solar energy towers, a rooftop wind turbine, a car that runs on air and a kite that tows a cargo ship.</desc>
+  <programme start="20260723011500 +0000" stop="20260723021500 +0000" channel="5f21ea08007a49000762d349">
+    <title lang="en">Air Warriors</title>
+    <desc lang="en">A look at how the C-47 evolved from passenger plane to a transport aircraft and flying hospital in WWII and years later as a gunship in Vietnam.</desc>
   </programme>
   <programme start="20260722125400 +0000" stop="20260722134600 +0000" channel="65775d29dfed030008cb3db2">
     <title lang="en">Modern Marvels</title>
@@ -2626,21 +2546,17 @@
     <title lang="en">Modern Marvels</title>
     <desc lang="en">Fast and powerful, they come in a hundred shapes and a thousand colors; to some, motorcycles symbolize freedom; to others, they simply stand for trouble; episode race back in time and see how, for over a hundred years, motorcycles inspired riders.</desc>
   </programme>
-  <programme start="20260722095500 +0000" stop="20260722105500 +0000" channel="5a4d35dfa5c02e717a234f86">
-    <title lang="en">Academy Award Winners First 50 Years</title>
-    <desc lang="en">A new wave of ideas and techniques took hold of the perpetually transforming film industry in the years following the war, with a new generation of fresh and hungry stars finding their own places in the vacuum of reconstruction the industry faced.</desc>
+  <programme start="20260723000100 +0000" stop="20260723005400 +0000" channel="65775d29dfed030008cb3db2">
+    <title lang="en">Modern Marvels</title>
+    <desc lang="en">Inventions for holding off a global warming meltdown include giant solar energy towers, a rooftop wind turbine, a car that runs on air and a kite that tows a cargo ship.</desc>
   </programme>
-  <programme start="20260722105500 +0000" stop="20260722112500 +0000" channel="5a4d35dfa5c02e717a234f86">
-    <title lang="en">Secret Life of…</title>
-    <desc lang="en">We know him as the king with a whack of palaces, a weight problem, and a penchant for killing off his wives. However, there is much more to Henry VIII than the old tyrant depicted in history books. Welcome to the Secret Life of Henry VIII.</desc>
+  <programme start="20260723005400 +0000" stop="20260723014600 +0000" channel="65775d29dfed030008cb3db2">
+    <title lang="en">Modern Marvels</title>
+    <desc lang="en">The evolution of technology; how things now considered obsolete worked such as the typewriter, VCR, analog TV, vinyl record, film camera and brick-sized mobile phone, as well as products that superseded them.</desc>
   </programme>
-  <programme start="20260722112500 +0000" stop="20260722115500 +0000" channel="5a4d35dfa5c02e717a234f86">
-    <title lang="en">Secret Life of…</title>
-    <desc lang="en">He alone was said to be worth 50,000 men on the battlefield. Such was the military genius of Napoleon Bonaparte. He ruled an empire with an empire-sized ego but was also a hopeless romantic. Welcome to the Secret Life of Napoleon.</desc>
-  </programme>
-  <programme start="20260722115500 +0000" stop="20260722125500 +0000" channel="5a4d35dfa5c02e717a234f86">
-    <title lang="en">Religions of the World</title>
-    <desc lang="en">One of the world&#x27;s oldest surviving religions, Judaism is both a theology and a way of life for its followers in the world today. The first religion to be founded upon the principle of monotheism.</desc>
+  <programme start="20260723014600 +0000" stop="20260723023800 +0000" channel="65775d29dfed030008cb3db2">
+    <title lang="en">Modern Marvels</title>
+    <desc lang="en">Renewable energy technologies fight petroleum dependence and global warming by transforming air, water, earth, and fire into clean sources; explore solar, wind, geothermal, biofuels, and tidal power from experimental to massive scale solutions.</desc>
   </programme>
   <programme start="20260722125500 +0000" stop="20260722135500 +0000" channel="5a4d35dfa5c02e717a234f86">
     <title lang="en">Religions of the World</title>
@@ -2686,29 +2602,17 @@
     <title lang="en">The Egyptians</title>
     <desc lang="en">The tomb of the last queen of Egypt has never been found, despite experts searching for centuries.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722103000 +0000" channel="563a970aa1a1f7fe7c9daad7">
-    <title lang="en">Zenith – Advances In Space Exploration</title>
-    <desc lang="en">Currently the only destination for Astronauts and Cosmonauts is the orbiting research platform known as the International Space Station.</desc>
+  <programme start="20260723001000 +0000" stop="20260723012500 +0000" channel="5a4d35dfa5c02e717a234f86">
+    <title lang="en">The Egyptians</title>
+    <desc lang="en">The tomb of the last queen of Egypt has never been found, despite experts searching for centuries.</desc>
   </programme>
-  <programme start="20260722103000 +0000" stop="20260722110000 +0000" channel="563a970aa1a1f7fe7c9daad7">
-    <title lang="en">Zenith – Advances In Space Exploration</title>
-    <desc lang="en">The solar system&#x27;s largest planet has been visited by automated probes since the 1970s.</desc>
+  <programme start="20260723012500 +0000" stop="20260723015500 +0000" channel="5a4d35dfa5c02e717a234f86">
+    <title lang="en">Great Greek Myths: The Odyssey</title>
+    <desc lang="en">Odysseus&#x27; fleet tries to avoid Charybdis, the first sea monster ready to swallow them, but Scylla, a horrible multi-headed creature, destroys three of his ships.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722113000 +0000" channel="563a970aa1a1f7fe7c9daad7">
-    <title lang="en">Xploration Earth 2050</title>
-    <desc lang="en">This episode explores how we will deal with our changing water supply in the future.</desc>
-  </programme>
-  <programme start="20260722113000 +0000" stop="20260722120000 +0000" channel="563a970aa1a1f7fe7c9daad7">
-    <title lang="en">Xploration Earth 2050</title>
-    <desc lang="en">You may not have a robot in your home now, but odds are you will within the next decade.</desc>
-  </programme>
-  <programme start="20260722120000 +0000" stop="20260722123000 +0000" channel="563a970aa1a1f7fe7c9daad7">
-    <title lang="en">Xploration Earth 2050</title>
-    <desc lang="en">Robots are no longer science fiction, they are a fact of science and their creators are featured.</desc>
-  </programme>
-  <programme start="20260722123000 +0000" stop="20260722130000 +0000" channel="563a970aa1a1f7fe7c9daad7">
-    <title lang="en">Xploration Earth 2050</title>
-    <desc lang="en">Nature is inspiring all sorts of futuristic designs.</desc>
+  <programme start="20260723015500 +0000" stop="20260723022500 +0000" channel="5a4d35dfa5c02e717a234f86">
+    <title lang="en">Great Greek Myths: The Odyssey</title>
+    <desc lang="en">Odysseus has been living out peaceful days with Calypso for 7 years. But waves of nostalgia wash over him, and the memories of his wife, his son and his island never cease to torment him.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722133000 +0000" channel="563a970aa1a1f7fe7c9daad7">
     <title lang="en">Xploration Earth 2050</title>
@@ -2758,17 +2662,17 @@
     <title lang="en">Ancient Engineering</title>
     <desc lang="en">From living in caves to grand mansions, shelter has always been high on the list of priorities.</desc>
   </programme>
-  <programme start="20260722090001 +0000" stop="20260722101501 +0000" channel="5bb3fea0f711fd76340eebff">
-    <title lang="en">Greatest Tank Battles</title>
-    <desc lang="en">In 1944 the US 3rd Armored Division spearheads the Allied push from the western border of Germany towards Berlin. The American tankers battle fanatical Germans defending their homeland.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="563a970aa1a1f7fe7c9daad7">
+    <title lang="en">Naked Science</title>
+    <desc lang="en">Mars our closest neighbor now a lifeless planet – but it may once have had water and therefore life. Naked Science investigates the red planet to learn how it was formed, how it became barren, and ask whether it ever will be possible to colonize it?</desc>
   </programme>
-  <programme start="20260722101501 +0000" stop="20260722111501 +0000" channel="5bb3fea0f711fd76340eebff">
-    <title lang="en">Greatest Tank Battles</title>
-    <desc lang="en">By September 1944, Patton’s hard-charging Third Army threatens to breach the German border. This is the story of the largest tank-vs-tank clash of the Second World War, as Hitler masses hundreds of panzers in a desperate bid to halt Patton’s advance.</desc>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="563a970aa1a1f7fe7c9daad7">
+    <title lang="en">Naked Science</title>
+    <desc lang="en">Saturn is the second-largest planet in the solar system. Storms on this gas giant can cover an area bigger than the United States Clouds of the gas race around the planet at over 1000 miles per hour generating fierce electrical storms and lightning.</desc>
   </programme>
-  <programme start="20260722111501 +0000" stop="20260722121501 +0000" channel="5bb3fea0f711fd76340eebff">
-    <title lang="en">Battleplan</title>
-    <desc lang="en">Blitzkrieg literally means Lightning War, a combat strategy that is hard, fast and merciless. Examine the factors which are essential for modern Blitzkrieg to work and the inherent dangers which can threaten disaster.</desc>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="563a970aa1a1f7fe7c9daad7">
+    <title lang="en">Naked Science</title>
+    <desc lang="en">13.7 billion years ago there was absolutely nothing. No space, no time, and no matter. Naked Science follows the first three seconds of creation when a speck of light appeared from nothing and rapidly expanded into an enormous Universe.</desc>
   </programme>
   <programme start="20260722121501 +0000" stop="20260722131501 +0000" channel="5bb3fea0f711fd76340eebff">
     <title lang="en">Battleplan</title>
@@ -2806,13 +2710,13 @@
     <title lang="en">The American Civil War</title>
     <desc lang="en">The battle of Bull Run, the war at sea, the emergence of Robert E. Lee, and the battle of Antietam.</desc>
   </programme>
-  <programme start="20260722094700 +0000" stop="20260722105300 +0000" channel="5ce44810b421747ae467b7cd">
-    <title lang="en">Antiques Roadshow</title>
-    <desc lang="en">A look at a famous clock collection, a silver honey pot, a photo archive of Sikh worship, a scrap of wood allegedly from the HMS Bounty and a saucy secret hidden inside a pair of bronze owls.</desc>
+  <programme start="20260722233001 +0000" stop="20260723010001 +0000" channel="5bb3fea0f711fd76340eebff">
+    <title lang="en">Black Hawk Down: The Untold Story</title>
+    <desc lang="en">In October 1993, two U.S. Black Hawk helicopters were shot down in Mogadishu, Somalia. This is the true story of the 14th Infantry Regiment of the 10th Mountain Division that engaged in a ferocious fight to reach the soldiers and bring them home.</desc>
   </programme>
-  <programme start="20260722105300 +0000" stop="20260722120100 +0000" channel="5ce44810b421747ae467b7cd">
-    <title lang="en">Antiques Roadshow</title>
-    <desc lang="en">Duncan Campbell discovers a very rare silver tobacco box from the 1600s; Serhat Ahmet examines a porcelain egg with a royal connection.</desc>
+  <programme start="20260723010001 +0000" stop="20260723020001 +0000" channel="5bb3fea0f711fd76340eebff">
+    <title lang="en">Secrets of War</title>
+    <desc lang="en">June 1940. England fights alone against aggressive brutal attacks. The Germans have yet to be stopped in their lightning plunge across Europe.</desc>
   </programme>
   <programme start="20260722120100 +0000" stop="20260722130600 +0000" channel="5ce44810b421747ae467b7cd">
     <title lang="en">Antiques Roadshow</title>
@@ -2854,17 +2758,17 @@
     <title lang="en">Antiques Roadshow</title>
     <desc lang="en">The Roadshow comes from Roundhay Park in Leeds and includes a rare Rolex Sea-Dweller watch, a gold handbag and an album of rare photographs.</desc>
   </programme>
-  <programme start="20260722091100 +0000" stop="20260722101400 +0000" channel="636c2b3c55d2e700074105c4">
+  <programme start="20260722230200 +0000" stop="20260723000900 +0000" channel="5ce44810b421747ae467b7cd">
     <title lang="en">Antiques Roadshow</title>
-    <desc lang="en">A 1965 NASA &quot;corned beef&quot; archive; the Korean painting &quot;The Water Moon Viewing Guanyin&quot;; a 1918 World War I peach can label letter.</desc>
+    <desc lang="en">Fiona Bruce presents from Alexandra Gardens in Cardiff.</desc>
   </programme>
-  <programme start="20260722101400 +0000" stop="20260722111700 +0000" channel="636c2b3c55d2e700074105c4">
+  <programme start="20260723000900 +0000" stop="20260723011500 +0000" channel="5ce44810b421747ae467b7cd">
     <title lang="en">Antiques Roadshow</title>
-    <desc lang="en">A 1946 Einstein-signed photo and prints; Agassiz pendant watch circa 1905; Chinese gold-splashed bronze vase circa 1850.</desc>
+    <desc lang="en">Roadshow comes from Crystal Palace Park in London and includes a signed Paul McCartney cartoon, a Lego portrait of Queen Elizabeth II and vintage Vivienne Westwood outfits.</desc>
   </programme>
-  <programme start="20260722111700 +0000" stop="20260722121900 +0000" channel="636c2b3c55d2e700074105c4">
+  <programme start="20260723011500 +0000" stop="20260723022000 +0000" channel="5ce44810b421747ae467b7cd">
     <title lang="en">Antiques Roadshow</title>
-    <desc lang="en">Revisiting fan favorites from 2002, including a Tang dynasty marble lion.</desc>
+    <desc lang="en">The roadshow comes from Ebrington Square in Londonderry and has a table made from the gifts given by a Chinese emperor and an amethyst pendant.</desc>
   </programme>
   <programme start="20260722121900 +0000" stop="20260722132800 +0000" channel="636c2b3c55d2e700074105c4">
     <title lang="en">Antiques Roadshow</title>
@@ -2910,17 +2814,13 @@
     <title lang="en">Antiques Roadshow</title>
     <desc lang="en">Charles &quot;Heinie&quot; Wagner Red Sox archive; Carl Schweninger oil painting circa 1850; a 1975 &quot;Yellow Submarine&quot; jacket made for Karen Carpenter.</desc>
   </programme>
-  <programme start="20260722090400 +0000" stop="20260722100600 +0000" channel="640a64bd73e013000893d4e0">
-    <title lang="en">Nature</title>
-    <desc lang="en">Dog trainers adopt unwanted dogs from shelters and train them to herd sheep and sniff bombs.</desc>
+  <programme start="20260722235600 +0000" stop="20260723005900 +0000" channel="636c2b3c55d2e700074105c4">
+    <title lang="en">Antiques Roadshow</title>
+    <desc lang="en">The 1963-1968 NASA archive of U.S. Air Force Col. Pearl Tucker; a painted &quot;Bucher&quot; box circa 1800; Randy Gumpert baseball archive.</desc>
   </programme>
-  <programme start="20260722100600 +0000" stop="20260722110800 +0000" channel="640a64bd73e013000893d4e0">
-    <title lang="en">Nature</title>
-    <desc lang="en">The relationship and interdependence between man and dog that develop during the 1,200-mile Iditarod dog-sled race.</desc>
-  </programme>
-  <programme start="20260722110800 +0000" stop="20260722121300 +0000" channel="640a64bd73e013000893d4e0">
-    <title lang="en">Nature</title>
-    <desc lang="en">A profile of Alaska includes its icy landscape, humpback whales, grizzlies and the northern lights.</desc>
+  <programme start="20260723005900 +0000" stop="20260723020200 +0000" channel="636c2b3c55d2e700074105c4">
+    <title lang="en">Antiques Roadshow</title>
+    <desc lang="en">A diamond bracelet and a Van Cleef &amp; Arpels diamond ring; Mardi Gras Comus Krewe parade float watercolors from 1892; Keith Haring subway graffiti art circa 1980.</desc>
   </programme>
   <programme start="20260722121300 +0000" stop="20260722131800 +0000" channel="640a64bd73e013000893d4e0">
     <title lang="en">Nature</title>
@@ -2966,17 +2866,17 @@
     <title lang="en">Nature</title>
     <desc lang="en">A bearded vulture, the bonebreaker, feeds atop the harsh Pyrenees separating Spain and France.</desc>
   </programme>
-  <programme start="20260722091428 +0000" stop="20260722102113 +0000" channel="636adc255bcf470007d6e0e2">
-    <title lang="en">Top Gear UK</title>
-    <desc lang="en">Jeremy, Richard and James drive three supercars through France to the Millau bridge.</desc>
+  <programme start="20260722234000 +0000" stop="20260723004100 +0000" channel="640a64bd73e013000893d4e0">
+    <title lang="en">Nature</title>
+    <desc lang="en">Scientists search for the bird of paradise in the New Guinea rain forest; host David Attenborough.</desc>
   </programme>
-  <programme start="20260722102113 +0000" stop="20260722112629 +0000" channel="636adc255bcf470007d6e0e2">
-    <title lang="en">Top Gear UK</title>
-    <desc lang="en">Can you buy a decent mid-engined Italian supercar for under £10,000? Contains Strong Language.</desc>
+  <programme start="20260723004100 +0000" stop="20260723014200 +0000" channel="640a64bd73e013000893d4e0">
+    <title lang="en">Nature</title>
+    <desc lang="en">Birds collect, compete for, reject and steal materials for building their nests.</desc>
   </programme>
-  <programme start="20260722112629 +0000" stop="20260722123350 +0000" channel="636adc255bcf470007d6e0e2">
-    <title lang="en">Top Gear UK</title>
-    <desc lang="en">It&#x27;s Bugatti Veyron vs. plane as the boys race from Italy to London. Contains Strong Language.</desc>
+  <programme start="20260723014200 +0000" stop="20260723024300 +0000" channel="640a64bd73e013000893d4e0">
+    <title lang="en">Nature</title>
+    <desc lang="en">The building plans of beavers, tortoises, hummingbirds and woodrats provide insight into their consciousness, creativity and innovation.</desc>
   </programme>
   <programme start="20260722123350 +0000" stop="20260722134031 +0000" channel="636adc255bcf470007d6e0e2">
     <title lang="en">Top Gear UK</title>
@@ -3018,17 +2918,13 @@
     <title lang="en">Top Gear UK</title>
     <desc lang="en">The boys go rural as they harness a group of tractors and attempt to grow gas. Contains Strong Language.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="6565413e4261ca0008215320">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">Tricky Dick&#x27;s Tennessee yard is littered with treasures, and though he isn&#x27;t motivated to part with any of it, Mike goes hog-wild for a vintage pig ride that could be worth some serious coin.</desc>
+  <programme start="20260723000043 +0000" stop="20260723011013 +0000" channel="636adc255bcf470007d6e0e2">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The team builds limos out of the most improbable cars and drive to the Brit Awards. Contains Strong Language.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="6565413e4261ca0008215320">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">Mike and Frank head to Ohio and decide to make the trip a little more interesting by bringing along a cup dispenser from an old train station to trade with their clients, hoping to make some cash.</desc>
-  </programme>
-  <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="6565413e4261ca0008215320">
-    <title lang="en">American Pickers</title>
-    <desc lang="en">The guys meet a man who had pieces on display in the Smithsonian, but find that what he&#x27;s held on to is even more mind-blowing. And a father/daughter power struggle is a roadblock to picking a farm.</desc>
+  <programme start="20260723011013 +0000" stop="20260723021339 +0000" channel="636adc255bcf470007d6e0e2">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The boys drive lightweight supercars across Europe. Contains Strong Language.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="6565413e4261ca0008215320">
     <title lang="en">American Pickers</title>
@@ -3098,21 +2994,17 @@
     <title lang="en">American Pickers</title>
     <desc lang="en">Danielle has asked for a raise, but Mike and Frank delay a decision until they see how successful they are with the next trip she sends them on--through Kentucky.</desc>
   </programme>
-  <programme start="20260722091500 +0000" stop="20260722101700 +0000" channel="6549322e53fc97000838febc">
-    <title lang="en">Million Dollar Listing New York</title>
-    <desc lang="en">The kings of Gotham real estate are back, and they refuse to let a changing market stand in the way of big-time deals; Fredrik is back with a bang to help Rebel Wilson find a luxurious NYC pied-à-terre; Steve gets himself in a tricky situation.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="6565413e4261ca0008215320">
+    <title lang="en">American Pickers</title>
+    <desc lang="en">Mike and Frank are out in Kentucky on a different kind of mission. They&#x27;re going to someone who needs their expertise to make his home unique. The owner is William Shatner, who gives Mike and Frank a very specific list.</desc>
   </programme>
-  <programme start="20260722101700 +0000" stop="20260722110600 +0000" channel="6549322e53fc97000838febc">
-    <title lang="en">Million Dollar Listing New York</title>
-    <desc lang="en">Fredrik takes on a penthouse listing where the owners have overspent; Steve hustles to sell his ex-girlfriend&#x27;s apartment and her next-door neighbor&#x27;s unit in record time; Ryan has to sell out a Brooklyn building for a first-time developer.</desc>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="6565413e4261ca0008215320">
+    <title lang="en">American Pickers</title>
+    <desc lang="en">With his wife by his side, a self-confessed Tennessee hoarder is motivated to clear out his jam-packed log cabin home, and the showstopper is a 1947 Harley Knucklehead. When a restoration junkie&#x27;s gas pumps are off-limits, Mike changes gears.</desc>
   </programme>
-  <programme start="20260722110600 +0000" stop="20260722115500 +0000" channel="6549322e53fc97000838febc">
-    <title lang="en">Million Dollar Listing New York</title>
-    <desc lang="en">Fredrik takes on 50 Cent&#x27;s Connecticut estate listing and throws an epic broker&#x27;s open to entice buyers; Ryan has a chance at the biggest listing of his career but only if he can get to Shanghai in time; Steve takes on a stale penthouse listing.</desc>
-  </programme>
-  <programme start="20260722115500 +0000" stop="20260722124400 +0000" channel="6549322e53fc97000838febc">
-    <title lang="en">Million Dollar Listing New York</title>
-    <desc lang="en">Ryan hits a speed bump in his attempt to get to Shanghai with $1 billion in business on the line; Fredrik&#x27;s tensions with his co-lister put a potential deal in jeopardy; Steve gets a chance to work for a dream client.</desc>
+  <programme start="20260723020000 +0000" stop="20260723023000 +0000" channel="6565413e4261ca0008215320">
+    <title lang="en">Pawn Stars</title>
+    <desc lang="en">The Pawn Stars are presented with a piece of fabric believed to be from William Henry Harrison&#x27;s presidential campaign.</desc>
   </programme>
   <programme start="20260722124400 +0000" stop="20260722133300 +0000" channel="6549322e53fc97000838febc">
     <title lang="en">Million Dollar Listing New York</title>
@@ -3162,17 +3054,17 @@
     <title lang="en">Million Dollar Listing New York</title>
     <desc lang="en">Ronita decides her partnership with Luis needs a tune-up; Ryan is thrilled to land three luxury properties in NoHo, but he is quickly burdened with 233 other units... all of them rentals; Steve&#x27;s own apartment becomes his latest listing.</desc>
   </programme>
-  <programme start="20260722091500 +0000" stop="20260722101500 +0000" channel="64e561a4354251000823a0e0">
-    <title lang="en">Ghost Hunters: Houghton Hears A Who?</title>
-    <desc lang="en">TAPS investigates Houghton Mansionin North Adams, Massachusetts where the repercussions of a deadly car accident could be behind unexplained phenomena on the property.</desc>
+  <programme start="20260722231500 +0000" stop="20260723000500 +0000" channel="6549322e53fc97000838febc">
+    <title lang="en">Million Dollar Listing New York</title>
+    <desc lang="en">Steve puts on a rubber mask to observe Jess at her first broker&#x27;s open house; Fredrik follows a lead for his Tribeca listing; Ryan lands a beautifully renovated loft in Chelsea.</desc>
   </programme>
-  <programme start="20260722101500 +0000" stop="20260722111500 +0000" channel="64e561a4354251000823a0e0">
-    <title lang="en">Ghost Hunters: Darker Learning</title>
-    <desc lang="en">On this episode of Ghost Hunters, TAPS has been called to investigate Southern Vermont College in Bennington, Vermont.  The legend of a mysterious love triangleand suicidescould be at the root of frightening paranormal activity.</desc>
+  <programme start="20260723000500 +0000" stop="20260723005500 +0000" channel="6549322e53fc97000838febc">
+    <title lang="en">Million Dollar Listing New York</title>
+    <desc lang="en">Ryan bets a Chelsea loft commission on a table tennis match; Steve&#x27;s girlfriend settles into their new home together; Fredrik thinks his Crosby listing&#x27;s massive terrace could be perfect for trained pets; a new, up-and-coming agent joins the crew.</desc>
   </programme>
-  <programme start="20260722111500 +0000" stop="20260722121500 +0000" channel="64e561a4354251000823a0e0">
-    <title lang="en">Ghost Hunters: Innocent Until Proven Dead</title>
-    <desc lang="en">TAPS has been called to Louisville, Kentucky to help three descendants find out if their ancestors arestill inhabitingthe property they owned in the 1800&#x27;s.</desc>
+  <programme start="20260723005500 +0000" stop="20260723021000 +0000" channel="6549322e53fc97000838febc">
+    <title lang="en">Million Dollar Listing New York</title>
+    <desc lang="en">Ryan interviews young agents for his new rental team; Steve and a childhood friend hit the gym to weigh all the investment properties they&#x27;ve seen; Tyler invites a famous mentalist to his Mercantile open house party; Fredrik hosts an open house.</desc>
   </programme>
   <programme start="20260722121500 +0000" stop="20260722131500 +0000" channel="64e561a4354251000823a0e0">
     <title lang="en">Ghost Hunters: Rockets Red Scare</title>
@@ -3218,29 +3110,17 @@
     <title lang="en">Ghost Hunters: Overdue For Death</title>
     <desc lang="en">Newly designated as a \\&quot;Literary Landmark,\\&quot; this library is consumed with ghostly visitors with a thirst for knowledge.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722103000 +0000" channel="5e1f7e089f23700009d66303">
-    <title lang="en">COPS</title>
-    <desc lang="en">A mom takes sides when a battle breaks out between brothers, and a man is accused of targeting children with a BB gun.</desc>
+  <programme start="20260722231500 +0000" stop="20260723001500 +0000" channel="64e561a4354251000823a0e0">
+    <title lang="en">Ghost Hunters: Give Me Liberty or Give Me Corpses</title>
+    <desc lang="en">The house, formerly owned by the \\&quot;Father of American Surgery,\\&quot; harbors a dark secret deep beneath its floors.  Now restless spirits inhabit the home in which they were once the subjects of experiments and research.</desc>
   </programme>
-  <programme start="20260722103000 +0000" stop="20260722110000 +0000" channel="5e1f7e089f23700009d66303">
-    <title lang="en">COPS</title>
-    <desc lang="en">The suspect of a carjacking tells an Officer that he would rather go to jail than face the wrath of his mother. An Officer investigates a domestic call involving a husband, wife and a lamp. A slow speed pursuit ensues.</desc>
+  <programme start="20260723001500 +0000" stop="20260723011500 +0000" channel="64e561a4354251000823a0e0">
+    <title lang="en">Ghost Hunters: Haunting of the Garde</title>
+    <desc lang="en">A 1920&#x27;s historic theater is rumored to be haunted by one of New London&#x27;s most prominent whaling families.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722113000 +0000" channel="5e1f7e089f23700009d66303">
-    <title lang="en">COPS</title>
-    <desc lang="en">Police respond to a fight in progress call, officers tail a vehicle leaving a house known for drug activity, and a man calls the police after his wife pushes his Harley over.</desc>
-  </programme>
-  <programme start="20260722113000 +0000" stop="20260722120000 +0000" channel="5e1f7e089f23700009d66303">
-    <title lang="en">COPS</title>
-    <desc lang="en">A distinctive tattoo reveals a wanted felon’s true identity. Deputies talk to a young woman who traded one bad habit for another. A man in possession of a stolen vehicle tells officers how his day went from bad to worse.</desc>
-  </programme>
-  <programme start="20260722120000 +0000" stop="20260722123000 +0000" channel="5e1f7e089f23700009d66303">
-    <title lang="en">COPS</title>
-    <desc lang="en">Two suspects hit a car with their U-Haul truck. A suspect flees on foot after a car pursuit. An elderly man is selling fake jewelry.</desc>
-  </programme>
-  <programme start="20260722123000 +0000" stop="20260722130000 +0000" channel="5e1f7e089f23700009d66303">
-    <title lang="en">COPS</title>
-    <desc lang="en">The K-9 unit tracks down a man fleeing on foot, a father is left with no choice but to call the cops on his son, and a former gang member is found with a stolen firearm.</desc>
+  <programme start="20260723011500 +0000" stop="20260723021500 +0000" channel="64e561a4354251000823a0e0">
+    <title lang="en">Ghost Hunters: Dudley Dead Wright</title>
+    <desc lang="en">A homeowner&#x27;s property backs up to land where a cursed 1740&#x27;s village once stood.Could evil entities have traveled from that property tothis terrified mother&#x27;s homeputting her family at risk?</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722133000 +0000" channel="5e1f7e089f23700009d66303">
     <title lang="en">COPS</title>
@@ -3326,17 +3206,29 @@
     <title lang="en">COPS</title>
     <desc lang="en">Police have a breakthrough in a burglary case, a man found with drugs in his pants claims the pants are not his, and officers deal with a familiar domestic disturbance call.</desc>
   </programme>
-  <programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="627d355aa95efd00077afcc7">
-    <title lang="en">Cheaters</title>
-    <desc lang="en">Wendy finds out why her husband wants to go to yoga. Jasmine fears her boyfriend&#x27;s backsliding behavior.</desc>
+  <programme start="20260722233000 +0000" stop="20260723000000 +0000" channel="5e1f7e089f23700009d66303">
+    <title lang="en">COPS</title>
+    <desc lang="en">Officers save a suspect&#x27;s life after arresting him, a man assaults his wife after she uncovers his internet history, and a pregnant woman fears prosecuting her abuser.</desc>
   </programme>
-  <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="627d355aa95efd00077afcc7">
-    <title lang="en">Cheaters</title>
-    <desc lang="en">Sabrina uncovers her man has company during her night shifts. Jacqueline learns her husband has a double life.</desc>
+  <programme start="20260723000000 +0000" stop="20260723003000 +0000" channel="5e1f7e089f23700009d66303">
+    <title lang="en">COPS</title>
+    <desc lang="en">An ATV driver leads deputies on a wild chase, a woman tries to ditch a bag of hard drugs, and an assault suspect is caught off guard by an incriminating voicemail.</desc>
   </programme>
-  <programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="627d355aa95efd00077afcc7">
-    <title lang="en">Cheaters</title>
-    <desc lang="en">Charlotte suspects her boyfriend is sleeping with her sister. Brooke fears her relationship is near the end.</desc>
+  <programme start="20260723003000 +0000" stop="20260723010000 +0000" channel="5e1f7e089f23700009d66303">
+    <title lang="en">COPS</title>
+    <desc lang="en">Deputies are concerned when a fleeing man leaves a trail of illicit items. A young woman unwisely decides to hang out with a man she nicknamed &#x27;Sketchy.&#x27; Some well-placed security cameras help reunite a man with his stolen bike.</desc>
+  </programme>
+  <programme start="20260723010000 +0000" stop="20260723013000 +0000" channel="5e1f7e089f23700009d66303">
+    <title lang="en">COPS</title>
+    <desc lang="en">A suspect tries to outrun the law by bicycle but can’t out pedal police. A deputy goes undercover to investigate stolen baseballs. A K-9 discovers hidden contraband on a suspect’s most private places.</desc>
+  </programme>
+  <programme start="20260723013000 +0000" stop="20260723020000 +0000" channel="5e1f7e089f23700009d66303">
+    <title lang="en">COPS</title>
+    <desc lang="en">A man with a suspended license flees a routine traffic stop on foot. Deputies respond to a battered woman after receiving a 911 hang up call. A sting operation nets a suspected drug dealer.</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723023000 +0000" channel="5e1f7e089f23700009d66303">
+    <title lang="en">COPS</title>
+    <desc lang="en">An Oklahoma man&#x27;s effort to evade units goes up in flames, officers use a beanbag gun on an armed suspect, and deputies intervene in a couple&#x27;s grocery dispute.</desc>
   </programme>
   <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="627d355aa95efd00077afcc7">
     <title lang="en">Cheaters</title>
@@ -3382,21 +3274,17 @@
     <title lang="en">Cheaters</title>
     <desc lang="en">Chelo discovers her boyfriend is carrying on with a coworker. Teresa finds out her man isn&#x27;t working overtime.</desc>
   </programme>
-  <programme start="20260722094400 +0000" stop="20260722104400 +0000" channel="5ced7d5df64be98e07ed47b6">
-    <title lang="en">NFL FLAG Championships Highlights</title>
-    <desc lang="en">Highlights from the High School Girls Division Round of 16 at the 2025 NFL FLAG Championships.</desc>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="627d355aa95efd00077afcc7">
+    <title lang="en">Cheaters</title>
+    <desc lang="en">Araseli learns the truth about her husband. Kelci discovers her boyfriend&#x27;s secret.</desc>
   </programme>
-  <programme start="20260722104400 +0000" stop="20260722111400 +0000" channel="5ced7d5df64be98e07ed47b6">
-    <title lang="en">NFL FLAG Championships Highlights</title>
-    <desc lang="en">Highlights from the High School Girls Division Quarterfinals at the 2025 NFL FLAG Championships.</desc>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="627d355aa95efd00077afcc7">
+    <title lang="en">Cheaters</title>
+    <desc lang="en">Sylvia uncovers why her husband sleeps in the guest room. Rita finds her man wooing a new love at the lake.</desc>
   </programme>
-  <programme start="20260722111400 +0000" stop="20260722120100 +0000" channel="5ced7d5df64be98e07ed47b6">
-    <title lang="en">2025 NFL Flag Championships</title>
-    <desc lang="en">From Tom Benson Hall of Fame Stadium in Canton, Ohio.</desc>
-  </programme>
-  <programme start="20260722120100 +0000" stop="20260722123100 +0000" channel="5ced7d5df64be98e07ed47b6">
-    <title lang="en">NFL FLAG Championships Highlights</title>
-    <desc lang="en">Highlights from the International matchups at the 2025 NFL FLAG Championships.</desc>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="627d355aa95efd00077afcc7">
+    <title lang="en">Cheaters</title>
+    <desc lang="en">Eva discovers her fiancé with her best friend. Christie finds out why her husband disappears for hours on end.</desc>
   </programme>
   <programme start="20260722123100 +0000" stop="20260722135100 +0000" channel="5ced7d5df64be98e07ed47b6">
     <title lang="en">2022 World Games</title>
@@ -3437,5 +3325,17 @@
   <programme start="20260722225000 +0000" stop="20260722235000 +0000" channel="5ced7d5df64be98e07ed47b6">
     <title lang="en">Hard Knocks: Training Camp With the Kansas City Chiefs</title>
     <desc lang="en">After more preseason losses, coach Herm starts making cuts and decides on the starting quarterback.</desc>
+  </programme>
+  <programme start="20260722235000 +0000" stop="20260723004900 +0000" channel="5ced7d5df64be98e07ed47b6">
+    <title lang="en">Hard Knocks: Training Camp With the Kansas City Chiefs</title>
+    <desc lang="en">After more preseason losses, coach Herm starts making cuts and decides on the starting quarterback.</desc>
+  </programme>
+  <programme start="20260723004900 +0000" stop="20260723014900 +0000" channel="5ced7d5df64be98e07ed47b6">
+    <title lang="en">Hard Knocks: Training Camp With the Kansas City Chiefs</title>
+    <desc lang="en">Players work hard for a fighting chance as coach Herm decides on the final cuts from the team.</desc>
+  </programme>
+  <programme start="20260723014900 +0000" stop="20260723021900 +0000" channel="5ced7d5df64be98e07ed47b6">
+    <title lang="en">NFL FLAG Championships Highlights</title>
+    <desc lang="en">Highlights from the International matchups at the 2025 NFL FLAG Championships.</desc>
   </programme>
 </tv>
